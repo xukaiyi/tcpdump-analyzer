@@ -1,0 +1,1391 @@
+18:24:50.708882 IP ip-91-197-13-37.gadu-gadu.pl.8074 > migajek.us.to.41839: Flags [P.], seq 3530724829:3530724855, ack 465067648, win 548, length 26
+18:24:50.708924 IP migajek.us.to.41839 > ip-91-197-13-37.gadu-gadu.pl.8074: Flags [.], ack 26, win 308, length 0
+18:24:50.710080 IP migajek.us.to.55717 > 192.168.1.254.domain: 61742+ PTR? 37.13.197.91.in-addr.arpa. (43)
+18:24:50.712124 IP 192.168.1.254.domain > migajek.us.to.55717: 61742 1/2/2 (153)
+18:24:50.715328 IP migajek.us.to.59499 > 192.168.1.254.domain: 35578+ PTR? 254.1.168.192.in-addr.arpa. (44)
+18:24:50.717355 IP 192.168.1.254.domain > migajek.us.to.59499: 35578 NXDomain* 0/1/0 (114)
+18:24:50.760994 IP migajek.us.to.56900 > 192.168.1.254.domain: 53727+ AAAA? api.gadu-gadu.pl. (34)
+18:24:50.763150 IP 192.168.1.254.domain > migajek.us.to.56900: 53727 0/1/0 (79)
+18:24:50.763318 IP migajek.us.to.50781 > 192.168.1.254.domain: 56945+ AAAA? api.gadu-gadu.pl. (34)
+18:24:50.765397 IP 192.168.1.254.domain > migajek.us.to.50781: 56945 0/1/0 (79)
+18:24:50.765659 IP migajek.us.to.49600 > 192.168.1.254.domain: 6569+ A? api.gadu-gadu.pl. (34)
+18:24:50.767531 IP 192.168.1.254.domain > migajek.us.to.49600: 6569 2/2/2 A[|domain]
+18:24:50.768985 IP migajek.us.to.40725 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [S], seq 885201243, win 5840, options [mss 1460,sackOK,TS val 70687348 ecr 0,nop,wscale 6], length 0
+18:24:50.786295 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40725: Flags [S.], seq 1124796972, ack 885201244, win 5840, options [mss 1460,nop,nop,sackOK,nop,wscale 4], length 0
+18:24:50.786348 IP migajek.us.to.40725 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [.], ack 1, win 92, length 0
+18:24:50.805447 IP migajek.us.to.40725 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [P.], seq 1:167, ack 1, win 92, length 166
+18:24:50.821670 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40725: Flags [.], ack 167, win 432, length 0
+18:24:50.827807 IP migajek.us.to.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 254.1.168.192.in-addr.arpa. (44)
+18:24:50.854012 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40725: Flags [P.], seq 1:743, ack 167, win 432, length 742
+18:24:50.854033 IP migajek.us.to.40725 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [.], ack 743, win 115, length 0
+18:24:50.855582 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40725: Flags [F.], seq 743, ack 167, win 432, length 0
+18:24:50.855892 IP migajek.us.to.40725 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [F.], seq 167, ack 744, win 115, length 0
+18:24:50.874325 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40725: Flags [.], ack 168, win 432, length 0
+18:24:51.835506 IP migajek.us.to.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 254.1.168.192.in-addr.arpa. (44)
+18:24:53.837970 IP migajek.us.to.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 254.1.168.192.in-addr.arpa. (44)
+18:24:55.703102 ARP, Request who-has migajek.us.to tell 192.168.1.254, length 46
+18:24:55.703121 ARP, Reply migajek.us.to is-at 00:19:66:79:f9:86 (oui Unknown), length 28
+18:24:55.730027 IP migajek.us.to.42091 > 192.168.1.254.domain: 13166+ PTR? 247.13.197.91.in-addr.arpa. (44)
+18:24:55.732065 IP 192.168.1.254.domain > migajek.us.to.42091: 13166 1/2/2 (155)
+18:24:55.732463 IP migajek.us.to.32943 > 192.168.1.254.domain: 47426+ PTR? 251.0.0.224.in-addr.arpa. (42)
+18:24:55.734530 IP 192.168.1.254.domain > migajek.us.to.32943: 47426 NXDomain* 0/1/0 (100)
+18:24:55.835161 IP migajek.us.to.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 251.0.0.224.in-addr.arpa. (42)
+18:24:56.836596 IP migajek.us.to.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 251.0.0.224.in-addr.arpa. (42)
+18:24:58.838137 IP migajek.us.to.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 251.0.0.224.in-addr.arpa. (42)
+18:25:11.803562 IP ip-91-197-13-37.gadu-gadu.pl.8074 > migajek.us.to.41839: Flags [P.], seq 26:52, ack 1, win 548, length 26
+18:25:11.803602 IP migajek.us.to.41839 > ip-91-197-13-37.gadu-gadu.pl.8074: Flags [.], ack 52, win 308, length 0
+18:25:11.878026 IP migajek.us.to.47624 > 192.168.1.254.domain: 39280+ AAAA? api.gadu-gadu.pl. (34)
+18:25:11.896541 IP 192.168.1.254.domain > migajek.us.to.47624: 39280 0/1/0 (79)
+18:25:11.903058 IP migajek.us.to.57350 > 192.168.1.254.domain: 7427+ AAAA? api.gadu-gadu.pl. (34)
+18:25:11.904961 IP 192.168.1.254.domain > migajek.us.to.57350: 7427 0/1/0 (79)
+18:25:11.910990 IP migajek.us.to.58409 > 192.168.1.254.domain: 4449+ A? api.gadu-gadu.pl. (34)
+18:25:11.912826 IP 192.168.1.254.domain > migajek.us.to.58409: 4449 2/2/2 A[|domain]
+18:25:11.920840 IP ip-91-197-13-37.gadu-gadu.pl.8074 > migajek.us.to.41839: Flags [P.], seq 52:106, ack 1, win 548, length 54
+18:25:11.920885 IP migajek.us.to.41839 > ip-91-197-13-37.gadu-gadu.pl.8074: Flags [.], ack 106, win 308, length 0
+18:25:11.996342 IP migajek.us.to.40726 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [S], seq 1206465285, win 5840, options [mss 1460,sackOK,TS val 70692655 ecr 0,nop,wscale 6], length 0
+18:25:11.999077 IP migajek.us.to.56771 > 192.168.1.254.domain: 19544+ AAAA? api.gadu-gadu.pl. (34)
+18:25:12.000964 IP 192.168.1.254.domain > migajek.us.to.56771: 19544 0/1/0 (79)
+18:25:12.008322 IP migajek.us.to.59429 > 192.168.1.254.domain: 869+ AAAA? api.gadu-gadu.pl. (34)
+18:25:12.010207 IP 192.168.1.254.domain > migajek.us.to.59429: 869 0/1/0 (79)
+18:25:12.011499 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40726: Flags [S.], seq 1147187001, ack 1206465286, win 5840, options [mss 1460,nop,nop,sackOK,nop,wscale 4], length 0
+18:25:12.011540 IP migajek.us.to.40726 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [.], ack 1, win 92, length 0
+18:25:12.023142 IP migajek.us.to.52849 > 192.168.1.254.domain: 22775+ A? api.gadu-gadu.pl. (34)
+18:25:12.024996 IP 192.168.1.254.domain > migajek.us.to.52849: 22775 2/2/2 A[|domain]
+18:25:12.133479 IP migajek.us.to.40726 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [P.], seq 1:167, ack 1, win 92, length 166
+18:25:12.133790 IP migajek.us.to.40727 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [S], seq 1204248392, win 5840, options [mss 1460,sackOK,TS val 70692689 ecr 0,nop,wscale 6], length 0
+18:25:12.150012 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40726: Flags [.], ack 167, win 432, length 0
+18:25:12.150065 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40727: Flags [S.], seq 1153301706, ack 1204248393, win 5840, options [mss 1460,nop,nop,sackOK,nop,wscale 4], length 0
+18:25:12.150092 IP migajek.us.to.40727 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [.], ack 1, win 92, length 0
+18:25:12.155216 IP migajek.us.to.40727 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [P.], seq 1:167, ack 1, win 92, length 166
+18:25:12.171720 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40727: Flags [.], ack 167, win 432, length 0
+18:25:12.180691 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40726: Flags [P.], seq 1:693, ack 167, win 432, length 692
+18:25:12.180734 IP migajek.us.to.40726 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [.], ack 693, win 113, length 0
+18:25:12.194779 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40726: Flags [F.], seq 693, ack 167, win 432, length 0
+18:25:12.195489 IP migajek.us.to.40726 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [F.], seq 167, ack 694, win 113, length 0
+18:25:12.198011 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40727: Flags [P.], seq 1:743, ack 167, win 432, length 742
+18:25:12.198062 IP migajek.us.to.40727 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [.], ack 743, win 115, length 0
+18:25:12.200595 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40727: Flags [F.], seq 743, ack 167, win 432, length 0
+18:25:12.203335 IP migajek.us.to.40727 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [F.], seq 167, ack 744, win 115, length 0
+18:25:12.211225 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40726: Flags [.], ack 168, win 432, length 0
+18:25:12.220300 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40727: Flags [.], ack 168, win 432, length 0
+18:25:13.270010 IP migajek.us.to.36449 > 192.168.1.254.domain: 51784+ AAAA? wp.pl. (23)
+18:25:13.274810 IP 192.168.1.254.domain > migajek.us.to.36449: 51784 0/1/0 (79)
+18:25:13.279134 IP migajek.us.to.50635 > 192.168.1.254.domain: 35952+ AAAA? wp.pl. (23)
+18:25:13.280969 IP 192.168.1.254.domain > migajek.us.to.50635: 35952 0/1/0 (79)
+18:25:13.281140 IP migajek.us.to.38199 > 192.168.1.254.domain: 3403+ A? wp.pl. (23)
+18:25:13.282570 IP 192.168.1.254.domain > migajek.us.to.38199: 3403 1/3/3 A 212.77.100.101 (150)
+18:25:13.282951 IP migajek.us.to.34590 > www.wp.pl.www: Flags [S], seq 1222855932, win 5840, options [mss 1460,sackOK,TS val 70692977 ecr 0,nop,wscale 6], length 0
+18:25:13.283311 IP migajek.us.to.59221 > 192.168.1.254.domain: 22830+ PTR? 101.100.77.212.in-addr.arpa. (45)
+18:25:13.290075 IP www.wp.pl.www > migajek.us.to.34590: Flags [S.], seq 506881756, ack 1222855933, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+18:25:13.290144 IP migajek.us.to.34590 > www.wp.pl.www: Flags [.], ack 1, win 92, length 0
+18:25:13.290665 IP migajek.us.to.34590 > www.wp.pl.www: Flags [P.], seq 1:946, ack 1, win 92, length 945
+18:25:13.291989 IP 192.168.1.254.domain > migajek.us.to.59221: 22830 1/2/2 (136)
+18:25:13.304268 IP www.wp.pl.www > migajek.us.to.34590: Flags [P.], seq 1:404, ack 946, win 5325, length 403
+18:25:13.304324 IP migajek.us.to.34590 > www.wp.pl.www: Flags [.], ack 404, win 108, length 0
+18:25:13.304961 IP www.wp.pl.www > migajek.us.to.34590: Flags [F.], seq 404, ack 946, win 5325, length 0
+18:25:13.310672 IP migajek.us.to.34590 > www.wp.pl.www: Flags [F.], seq 946, ack 405, win 108, length 0
+18:25:13.316835 IP www.wp.pl.www > migajek.us.to.34590: Flags [.], ack 947, win 5325, length 0
+18:25:13.399079 IP migajek.us.to.43254 > 192.168.1.254.domain: 25207+ AAAA? www.wp.pl. (27)
+18:25:13.403800 IP 192.168.1.254.domain > migajek.us.to.43254: 25207 0/1/0 (83)
+18:25:13.407272 IP migajek.us.to.53984 > 192.168.1.254.domain: 55896+ AAAA? www.wp.pl. (27)
+18:25:13.409149 IP 192.168.1.254.domain > migajek.us.to.53984: 55896 0/1/0 (83)
+18:25:13.409232 IP migajek.us.to.35323 > 192.168.1.254.domain: 59919+ A? www.wp.pl. (27)
+18:25:13.410669 IP 192.168.1.254.domain > migajek.us.to.35323: 59919 1/3/3 A 212.77.100.101 (154)
+18:25:13.410885 IP migajek.us.to.34591 > www.wp.pl.www: Flags [S], seq 1237562676, win 5840, options [mss 1460,sackOK,TS val 70693009 ecr 0,nop,wscale 6], length 0
+18:25:13.420007 IP www.wp.pl.www > migajek.us.to.34591: Flags [S.], seq 2774891800, ack 1237562677, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+18:25:13.420050 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 1, win 92, length 0
+18:25:13.420305 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], seq 1:1461, ack 1, win 92, length 1460
+18:25:13.420315 IP migajek.us.to.34591 > www.wp.pl.www: Flags [P.], seq 1461:1849, ack 1, win 92, length 388
+18:25:13.432428 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 1461, win 5840, length 0
+18:25:13.451662 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 1:1461, ack 1849, win 6228, length 1460
+18:25:13.451710 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 1461, win 137, length 0
+18:25:13.453271 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 1461:2921, ack 1849, win 6228, length 1460
+18:25:13.453307 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 2921, win 183, length 0
+18:25:13.454135 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 2921:4381, ack 1849, win 6228, length 1460
+18:25:13.454155 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 4381, win 229, length 0
+18:25:13.462404 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 4381:5841, ack 1849, win 6228, length 1460
+18:25:13.462440 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 5841, win 274, length 0
+18:25:13.463407 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 5841:7301, ack 1849, win 6228, length 1460
+18:25:13.463415 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 7301, win 320, length 0
+18:25:13.464618 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 7301:8761, ack 1849, win 6228, length 1460
+18:25:13.464631 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 8761, win 365, length 0
+18:25:13.465629 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 8761:10221, ack 1849, win 6228, length 1460
+18:25:13.465639 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 10221, win 411, length 0
+18:25:13.468720 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 10221:11681, ack 1849, win 6228, length 1460
+18:25:13.468758 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 11681, win 457, length 0
+18:25:13.468920 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 11681:13141, ack 1849, win 6228, length 1460
+18:25:13.468928 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 13141, win 502, length 0
+18:25:13.472593 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 13141:14601, ack 1849, win 6228, length 1460
+18:25:13.472632 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 14601, win 548, length 0
+18:25:13.474228 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 14601:16061, ack 1849, win 6228, length 1460
+18:25:13.474260 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 16061, win 594, length 0
+18:25:13.475183 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 16061:17521, ack 1849, win 6228, length 1460
+18:25:13.475210 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 17521, win 639, length 0
+18:25:13.476478 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 17521:18981, ack 1849, win 6228, length 1460
+18:25:13.476502 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 18981, win 685, length 0
+18:25:13.477777 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 18981:20441, ack 1849, win 6228, length 1460
+18:25:13.477811 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 20441, win 730, length 0
+18:25:13.478515 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 20441:21901, ack 1849, win 6228, length 1460
+18:25:13.478539 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 21901, win 776, length 0
+18:25:13.479407 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 21901:23361, ack 1849, win 6228, length 1460
+18:25:13.479442 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 23361, win 822, length 0
+18:25:13.480270 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 23361:24821, ack 1849, win 6228, length 1460
+18:25:13.480287 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 24821, win 867, length 0
+18:25:13.481412 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 24821:26281, ack 1849, win 6228, length 1460
+18:25:13.481455 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 26281, win 872, length 0
+18:25:13.482286 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 26281:27741, ack 1849, win 6228, length 1460
+18:25:13.482311 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 27741, win 850, length 0
+18:25:13.483484 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 27741:29201, ack 1849, win 6228, length 1460
+18:25:13.483518 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 29201, win 959, length 0
+18:25:13.484374 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 29201:30661, ack 1849, win 6228, length 1460
+18:25:13.484397 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 30661, win 981, length 0
+18:25:13.485758 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 30661:32121, ack 1849, win 6228, length 1460
+18:25:13.486785 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 32121:33581, ack 1849, win 6228, length 1460
+18:25:13.488088 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 33581:35041, ack 1849, win 6228, length 1460
+18:25:13.488345 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 35041:36501, ack 1849, win 6228, length 1460
+18:25:13.489430 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 36501:37961, ack 1849, win 6228, length 1460
+18:25:13.490324 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 40881:42341, ack 1849, win 6228, length 1460
+18:25:13.490356 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 37961, win 867, options [nop,nop,sack 1 {40881:42341}], length 0
+18:25:13.491365 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 37961:39421, ack 1849, win 6228, length 1460
+18:25:13.491398 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 39421, win 981, options [nop,nop,sack 1 {40881:42341}], length 0
+18:25:13.492256 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 39421:40881, ack 1849, win 6228, length 1460
+18:25:13.492278 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 42341, win 959, length 0
+18:25:13.493537 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 42341:43801, ack 1849, win 6228, length 1460
+18:25:13.493567 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 43801, win 937, length 0
+18:25:13.493583 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 43801:44480, ack 1849, win 6228, length 679
+18:25:13.493589 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 44480, win 927, length 0
+18:25:13.572061 IP migajek.us.to.51213 > 192.168.1.254.domain: 374+ AAAA? wp.hit.gemius.pl. (34)
+18:25:13.580134 IP 192.168.1.254.domain > migajek.us.to.51213: 374 0/1/0 (86)
+18:25:13.580635 IP migajek.us.to.55744 > 192.168.1.254.domain: 28409+ AAAA? wp.hit.gemius.pl. (34)
+18:25:13.582501 IP 192.168.1.254.domain > migajek.us.to.55744: 28409 0/1/0 (86)
+18:25:13.586843 IP migajek.us.to.47878 > 192.168.1.254.domain: 48001+ A? wp.hit.gemius.pl. (34)
+18:25:13.588278 IP 192.168.1.254.domain > migajek.us.to.47878: 48001 1/2/0 A[|domain]
+18:25:13.595132 IP migajek.us.to.58065 > wp.hit.gemius.pl.www: Flags [S], seq 1239684200, win 5840, options [mss 1460,sackOK,TS val 70693055 ecr 0,nop,wscale 6], length 0
+18:25:13.595380 IP migajek.us.to.49972 > 192.168.1.254.domain: 29082+ PTR? 100.101.77.212.in-addr.arpa. (45)
+18:25:13.605736 IP wp.hit.gemius.pl.www > migajek.us.to.58065: Flags [S.], seq 1902386150, ack 1239684201, win 65535, options [mss 1460,nop,wscale 3,sackOK,TS val 3245104019 ecr 70693055], length 0
+18:25:13.605807 IP migajek.us.to.58065 > wp.hit.gemius.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693057 ecr 3245104019], length 0
+18:25:13.605886 IP migajek.us.to.58065 > wp.hit.gemius.pl.www: Flags [P.], seq 1:668, ack 1, win 92, options [nop,nop,TS val 70693057 ecr 3245104019], length 667
+18:25:13.607501 IP 192.168.1.254.domain > migajek.us.to.49972: 29082 1/2/2 (146)
+18:25:13.615459 IP migajek.us.to.60876 > 192.168.1.254.domain: 60814+ AAAA? dot.wp.pl. (27)
+18:25:13.618023 IP wp.hit.gemius.pl.www > migajek.us.to.58065: Flags [F.], seq 597, ack 668, win 8326, options [nop,nop,TS val 3245104030 ecr 70693057], length 0
+18:25:13.618061 IP migajek.us.to.58065 > wp.hit.gemius.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693060 ecr 3245104019,nop,nop,sack 1 {597:598}], length 0
+18:25:13.619679 IP wp.hit.gemius.pl.www > migajek.us.to.58065: Flags [P.], seq 1:597, ack 668, win 8326, options [nop,nop,TS val 3245104030 ecr 70693057], length 596
+18:25:13.619694 IP migajek.us.to.58065 > wp.hit.gemius.pl.www: Flags [.], ack 598, win 110, options [nop,nop,TS val 70693061 ecr 3245104030], length 0
+18:25:13.622950 IP migajek.us.to.58065 > wp.hit.gemius.pl.www: Flags [F.], seq 668, ack 598, win 110, options [nop,nop,TS val 70693062 ecr 3245104030], length 0
+18:25:13.627384 IP 192.168.1.254.domain > migajek.us.to.60876: 60814 0/1/0 (83)
+18:25:13.629319 IP wp.hit.gemius.pl.www > migajek.us.to.58065: Flags [.], ack 669, win 8325, options [nop,nop,TS val 3245104043 ecr 70693062], length 0
+18:25:13.631654 IP migajek.us.to.44822 > 192.168.1.254.domain: 17220+ AAAA? dot.wp.pl. (27)
+18:25:13.633644 IP 192.168.1.254.domain > migajek.us.to.44822: 17220 0/1/0 (83)
+18:25:13.639502 IP migajek.us.to.59972 > 192.168.1.254.domain: 50725+ A? dot.wp.pl. (27)
+18:25:13.639729 IP migajek.us.to.47732 > 192.168.1.254.domain: 53787+ AAAA? rek.www.wp.pl. (31)
+18:25:13.641520 IP 192.168.1.254.domain > migajek.us.to.59972: 50725 1/3/3 A 212.77.100.82 (154)
+18:25:13.641844 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [S], seq 1240719711, win 5840, options [mss 1460,sackOK,TS val 70693066 ecr 0,nop,wscale 6], length 0
+18:25:13.642176 IP migajek.us.to.39628 > 192.168.1.254.domain: 44111+ PTR? 82.100.77.212.in-addr.arpa. (44)
+18:25:13.647632 IP 192.168.1.254.domain > migajek.us.to.47732: 53787 0/1/0 (87)
+18:25:13.650366 IP dot.wp.pl.www > migajek.us.to.40625: Flags [S.], seq 3358949349, ack 1240719712, win 4380, options [mss 1460], length 0
+18:25:13.650428 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [.], ack 1, win 5840, length 0
+18:25:13.652666 IP 192.168.1.254.domain > migajek.us.to.39628: 44111 1/2/2 (135)
+18:25:13.653280 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [P.], seq 1:1019, ack 1, win 5840, length 1018
+18:25:13.653557 IP migajek.us.to.43164 > 192.168.1.254.domain: 54947+ AAAA? rek.www.wp.pl. (31)
+18:25:13.655593 IP 192.168.1.254.domain > migajek.us.to.43164: 54947 0/1/0 (87)
+18:25:13.664855 IP migajek.us.to.36505 > 192.168.1.254.domain: 47148+ A? rek.www.wp.pl. (31)
+18:25:13.666320 IP 192.168.1.254.domain > migajek.us.to.36505: 47148 1/3/3 A 212.77.100.128 (158)
+18:25:13.671174 IP migajek.us.to.34610 > rek.www.wp.pl.www: Flags [S], seq 1228419030, win 5840, options [mss 1460,sackOK,TS val 70693074 ecr 0,nop,wscale 6], length 0
+18:25:13.671240 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [S], seq 1234379540, win 5840, options [mss 1460,sackOK,TS val 70693074 ecr 0,nop,wscale 6], length 0
+18:25:13.671436 IP migajek.us.to.37066 > 192.168.1.254.domain: 17060+ PTR? 128.100.77.212.in-addr.arpa. (45)
+18:25:13.673948 IP dot.wp.pl.www > migajek.us.to.40625: Flags [.], seq 1:1461, ack 1019, win 14508, length 1460
+18:25:13.673992 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [.], ack 1461, win 8760, length 0
+18:25:13.673996 IP dot.wp.pl.www > migajek.us.to.40625: Flags [P.], seq 1461:1562, ack 1019, win 14508, length 101
+18:25:13.674002 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [.], ack 1562, win 8760, length 0
+18:25:13.682048 IP rek.www.wp.pl.www > migajek.us.to.34610: Flags [S.], seq 1789866431, ack 1228419031, win 5792, options [mss 1460,sackOK,TS val 712768208 ecr 70693074,nop,wscale 2], length 0
+18:25:13.682110 IP migajek.us.to.34610 > rek.www.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693076 ecr 712768208], length 0
+18:25:13.682117 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [S.], seq 772847755, ack 1234379541, win 5792, options [mss 1460,sackOK,TS val 3004356299 ecr 70693074,nop,wscale 2], length 0
+18:25:13.682129 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693076 ecr 3004356299], length 0
+18:25:13.683799 IP 192.168.1.254.domain > migajek.us.to.37066: 17060 1/2/2 (140)
+18:25:13.686018 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], seq 1:1449, ack 1, win 92, options [nop,nop,TS val 70693077 ecr 3004356299], length 1448
+18:25:13.686030 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [P.], seq 1449:1910, ack 1, win 92, options [nop,nop,TS val 70693077 ecr 3004356299], length 461
+18:25:13.686041 IP migajek.us.to.34610 > rek.www.wp.pl.www: Flags [.], seq 1:1449, ack 1, win 92, options [nop,nop,TS val 70693077 ecr 712768208], length 1448
+18:25:13.686046 IP migajek.us.to.34610 > rek.www.wp.pl.www: Flags [P.], seq 1449:1807, ack 1, win 92, options [nop,nop,TS val 70693077 ecr 712768208], length 358
+18:25:13.698902 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [.], ack 1910, win 2896, options [nop,nop,TS val 3004356319 ecr 70693077], length 0
+18:25:13.705444 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [.], ack 1449, win 2172, options [nop,nop,TS val 3004356317 ecr 70693077], length 0
+18:25:13.705486 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693082 ecr 3004356319], length 0
+18:25:13.705932 IP rek.www.wp.pl.www > migajek.us.to.34610: Flags [.], ack 1449, win 2172, options [nop,nop,TS val 712768230 ecr 70693077], length 0
+18:25:13.706721 IP rek.www.wp.pl.www > migajek.us.to.34610: Flags [.], ack 1807, win 2896, options [nop,nop,TS val 712768231 ecr 70693077], length 0
+18:25:13.710210 IP rek.www.wp.pl.www > migajek.us.to.34610: Flags [P.], seq 1:453, ack 1807, win 2896, options [nop,nop,TS val 712768235 ecr 70693077], length 452
+18:25:13.710246 IP migajek.us.to.34610 > rek.www.wp.pl.www: Flags [.], ack 453, win 108, options [nop,nop,TS val 70693083 ecr 712768235], length 0
+18:25:13.741392 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [.], seq 1:1449, ack 1910, win 2896, options [nop,nop,TS val 3004356356 ecr 70693082], length 1448
+18:25:13.741437 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], ack 1449, win 137, options [nop,nop,TS val 70693091 ecr 3004356356], length 0
+18:25:13.742447 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [.], seq 1449:2897, ack 1910, win 2896, options [nop,nop,TS val 3004356356 ecr 70693082], length 1448
+18:25:13.742468 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], ack 2897, win 182, options [nop,nop,TS val 70693091 ecr 3004356356], length 0
+18:25:13.752754 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [P.], seq 2897:4345, ack 1910, win 2896, options [nop,nop,TS val 3004356369 ecr 70693091], length 1448
+18:25:13.752790 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], ack 4345, win 227, options [nop,nop,TS val 70693094 ecr 3004356369], length 0
+18:25:13.753775 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [.], seq 4345:5793, ack 1910, win 2896, options [nop,nop,TS val 3004356369 ecr 70693091], length 1448
+18:25:13.753793 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], ack 5793, win 273, options [nop,nop,TS val 70693094 ecr 3004356369], length 0
+18:25:13.755844 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [.], seq 5793:7241, ack 1910, win 2896, options [nop,nop,TS val 3004356369 ecr 70693091], length 1448
+18:25:13.755873 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], ack 7241, win 318, options [nop,nop,TS val 70693095 ecr 3004356369], length 0
+18:25:13.755880 IP rek.www.wp.pl.www > migajek.us.to.34611: Flags [P.], seq 7241:7587, ack 1910, win 2896, options [nop,nop,TS val 3004356369 ecr 70693091], length 346
+18:25:13.755886 IP migajek.us.to.34611 > rek.www.wp.pl.www: Flags [.], ack 7587, win 363, options [nop,nop,TS val 70693095 ecr 3004356369], length 0
+18:25:13.797162 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], seq 1849:3309, ack 44480, win 1002, length 1460
+18:25:13.797182 IP migajek.us.to.34591 > www.wp.pl.www: Flags [P.], seq 3309:3731, ack 44480, win 1002, length 422
+18:25:13.803221 IP migajek.us.to.34596 > www.wp.pl.www: Flags [S], seq 1232941882, win 5840, options [mss 1460,sackOK,TS val 70693107 ecr 0,nop,wscale 6], length 0
+18:25:13.809616 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 3309, win 7688, length 0
+18:25:13.810687 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 44480:44761, ack 3731, win 8110, length 281
+18:25:13.810766 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 44761, win 1002, length 0
+18:25:13.810771 IP www.wp.pl.www > migajek.us.to.34596: Flags [S.], seq 2953779384, ack 1232941883, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+18:25:13.810788 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], ack 1, win 92, length 0
+18:25:13.811178 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], seq 1:1461, ack 1, win 92, length 1460
+18:25:13.811189 IP migajek.us.to.34596 > www.wp.pl.www: Flags [P.], seq 1461:1877, ack 1, win 92, length 416
+18:25:13.814890 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], seq 3731:5191, ack 44761, win 1002, length 1460
+18:25:13.814910 IP migajek.us.to.34591 > www.wp.pl.www: Flags [P.], seq 5191:5611, ack 44761, win 1002, length 420
+18:25:13.824761 IP www.wp.pl.www > migajek.us.to.34596: Flags [.], ack 1461, win 5840, length 0
+18:25:13.826133 IP www.wp.pl.www > migajek.us.to.34596: Flags [P.], seq 1:282, ack 1877, win 6256, length 281
+18:25:13.826179 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], ack 282, win 108, length 0
+18:25:13.832235 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 44761:45043, ack 5611, win 9990, length 282
+18:25:13.834587 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 5611, win 9990, length 0
+18:25:13.851433 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], seq 1877:3337, ack 282, win 108, length 1460
+18:25:13.851452 IP migajek.us.to.34596 > www.wp.pl.www: Flags [P.], seq 3337:3751, ack 282, win 108, length 414
+18:25:13.855622 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], seq 5611:7071, ack 45043, win 1002, length 1460
+18:25:13.855643 IP migajek.us.to.34591 > www.wp.pl.www: Flags [P.], seq 7071:7432, ack 45043, win 1002, length 361
+18:25:13.863654 IP migajek.us.to.34597 > www.wp.pl.www: Flags [S], seq 1246751068, win 5840, options [mss 1460,sackOK,TS val 70693122 ecr 0,nop,wscale 6], length 0
+18:25:13.864817 IP www.wp.pl.www > migajek.us.to.34596: Flags [P.], seq 282:564, ack 3751, win 8130, length 282
+18:25:13.864854 IP www.wp.pl.www > migajek.us.to.34596: Flags [.], ack 3751, win 8130, length 0
+18:25:13.866521 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 7071, win 11450, length 0
+18:25:13.871744 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 45043:46503, ack 7432, win 11811, length 1460
+18:25:13.872804 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 46503:47963, ack 7432, win 11811, length 1460
+18:25:13.873990 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 47963:49423, ack 7432, win 11811, length 1460
+18:25:13.874178 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 49423:50627, ack 7432, win 11811, length 1204
+18:25:13.874583 IP www.wp.pl.www > migajek.us.to.34597: Flags [S.], seq 2924026194, ack 1246751069, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+18:25:13.874615 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 1, win 92, length 0
+18:25:13.876224 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 50627, win 981, length 0
+18:25:13.876408 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], seq 1:1461, ack 1, win 92, length 1460
+18:25:13.876418 IP migajek.us.to.34597 > www.wp.pl.www: Flags [P.], seq 1461:1822, ack 1, win 92, length 361
+18:25:13.880367 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], seq 3751:5211, ack 564, win 125, length 1460
+18:25:13.880387 IP migajek.us.to.34596 > www.wp.pl.www: Flags [P.], seq 5211:5622, ack 564, win 125, length 411
+18:25:13.884337 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], seq 7432:8892, ack 50627, win 1002, length 1460
+18:25:13.884359 IP migajek.us.to.34591 > www.wp.pl.www: Flags [P.], seq 8892:9253, ack 50627, win 1002, length 361
+18:25:13.892410 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], ack 1461, win 5840, length 0
+18:25:13.898830 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], seq 1:1461, ack 1822, win 6201, length 1460
+18:25:13.898881 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 1461, win 137, length 0
+18:25:13.898893 IP www.wp.pl.www > migajek.us.to.34597: Flags [P.], seq 2921:3825, ack 1822, win 6201, length 904
+18:25:13.898904 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 1461, win 137, options [nop,nop,sack 1 {2921:3825}], length 0
+18:25:13.900274 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], seq 1461:2921, ack 1822, win 6201, length 1460
+18:25:13.900311 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 3825, win 183, length 0
+18:25:13.900316 IP www.wp.pl.www > migajek.us.to.34596: Flags [.], ack 5211, win 9590, length 0
+18:25:13.900331 IP www.wp.pl.www > migajek.us.to.34596: Flags [P.], seq 564:847, ack 5622, win 10001, length 283
+18:25:13.901456 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 8892, win 13271, length 0
+18:25:13.904799 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 50627:52087, ack 9253, win 13632, length 1460
+18:25:13.906382 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 52087:53547, ack 9253, win 13632, length 1460
+18:25:13.907012 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 53547:55007, ack 9253, win 13632, length 1460
+18:25:13.907060 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 55007:55559, ack 9253, win 13632, length 552
+18:25:13.908469 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 55559, win 981, length 0
+18:25:13.936790 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], seq 1822:3282, ack 3825, win 183, length 1460
+18:25:13.936808 IP migajek.us.to.34597 > www.wp.pl.www: Flags [P.], seq 3282:3696, ack 3825, win 183, length 414
+18:25:13.938793 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], ack 847, win 142, length 0
+18:25:13.948994 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], ack 3696, win 8075, length 0
+18:25:13.949596 IP www.wp.pl.www > migajek.us.to.34597: Flags [P.], seq 3825:4106, ack 3696, win 8075, length 281
+18:25:13.986798 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 4106, win 229, length 0
+18:25:14.017746 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], seq 5622:7082, ack 847, win 142, length 1460
+18:25:14.017762 IP migajek.us.to.34596 > www.wp.pl.www: Flags [P.], seq 7082:7527, ack 847, win 142, length 445
+18:25:14.033064 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], seq 9253:10713, ack 55559, win 1002, length 1460
+18:25:14.033083 IP migajek.us.to.34591 > www.wp.pl.www: Flags [P.], seq 10713:11074, ack 55559, win 1002, length 361
+18:25:14.034180 IP www.wp.pl.www > migajek.us.to.34596: Flags [.], ack 7527, win 11906, length 0
+18:25:14.043801 IP www.wp.pl.www > migajek.us.to.34596: Flags [P.], seq 847:2307, ack 7527, win 11906, length 1460
+18:25:14.043846 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], ack 2307, win 188, length 0
+18:25:14.043855 IP www.wp.pl.www > migajek.us.to.34596: Flags [P.], seq 2307:2515, ack 7527, win 11906, length 208
+18:25:14.043860 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], ack 2515, win 233, length 0
+18:25:14.050165 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 10713, win 15092, length 0
+18:25:14.052534 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 55559:57019, ack 11074, win 15453, length 1460
+18:25:14.053362 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 57019:58479, ack 11074, win 15453, length 1460
+18:25:14.053387 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 58479, win 1002, length 0
+18:25:14.056421 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 58479:59939, ack 11074, win 15453, length 1460
+18:25:14.056696 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 59939:61399, ack 11074, win 15453, length 1460
+18:25:14.056818 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 61399:62859, ack 11074, win 15453, length 1460
+18:25:14.058680 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 62859:64319, ack 11074, win 15453, length 1460
+18:25:14.059020 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 64319:65779, ack 11074, win 15453, length 1460
+18:25:14.059450 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 65779, win 916, length 0
+18:25:14.061106 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 65779:67239, ack 11074, win 15453, length 1460
+18:25:14.062468 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 67239:68699, ack 11074, win 15453, length 1460
+18:25:14.062508 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 68699, win 1002, length 0
+18:25:14.067159 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 68699:70159, ack 11074, win 15453, length 1460
+18:25:14.068700 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 70159:71619, ack 11074, win 15453, length 1460
+18:25:14.068732 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 71619, win 1002, length 0
+18:25:14.069847 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 71619:73079, ack 11074, win 15453, length 1460
+18:25:14.073419 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 73079:74539, ack 11074, win 15453, length 1460
+18:25:14.073452 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 74539, win 1002, length 0
+18:25:14.074607 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 74539:75999, ack 11074, win 15453, length 1460
+18:25:14.077126 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 75999:77459, ack 11074, win 15453, length 1460
+18:25:14.077160 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 77459, win 1002, length 0
+18:25:14.081249 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 77459:78919, ack 11074, win 15453, length 1460
+18:25:14.081449 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 78919:80379, ack 11074, win 15453, length 1460
+18:25:14.081467 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 80379, win 1002, length 0
+18:25:14.082900 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 80379:81839, ack 11074, win 15453, length 1460
+18:25:14.083907 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 81839:83299, ack 11074, win 15453, length 1460
+18:25:14.084929 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 83299:84759, ack 11074, win 15453, length 1460
+18:25:14.085125 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 84759, win 959, length 0
+18:25:14.088525 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 84759:86219, ack 11074, win 15453, length 1460
+18:25:14.088803 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 86219:87679, ack 11074, win 15453, length 1460
+18:25:14.088821 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 87679, win 981, length 0
+18:25:14.088922 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 87679:89139, ack 11074, win 15453, length 1460
+18:25:14.090571 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 89139:90599, ack 11074, win 15453, length 1460
+18:25:14.090860 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 90599:92059, ack 11074, win 15453, length 1460
+18:25:14.091072 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 92059:93519, ack 11074, win 15453, length 1460
+18:25:14.092154 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 93519:94979, ack 11074, win 15453, length 1460
+18:25:14.092921 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 94979:96439, ack 11074, win 15453, length 1460
+18:25:14.093159 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 96439, win 894, length 0
+18:25:14.096641 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 97899:99359, ack 11074, win 15453, length 1460
+18:25:14.096682 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 96439, win 1002, options [nop,nop,sack 1 {97899:99359}], length 0
+18:25:14.096908 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 96439:97899, ack 11074, win 15453, length 1460
+18:25:14.096923 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 99359, win 981, length 0
+18:25:14.097032 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 99359:100819, ack 11074, win 15453, length 1460
+18:25:14.097039 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 100819, win 959, length 0
+18:25:14.098957 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 100819:102279, ack 11074, win 15453, length 1460
+18:25:14.098991 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 102279, win 937, length 0
+18:25:14.099225 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 102279:103739, ack 11074, win 15453, length 1460
+18:25:14.099235 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 103739, win 916, length 0
+18:25:14.099307 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 103739:104690, ack 11074, win 15453, length 951
+18:25:14.099314 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 104690, win 902, length 0
+18:25:14.113846 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], seq 3696:5156, ack 4106, win 229, length 1460
+18:25:14.113867 IP migajek.us.to.34597 > www.wp.pl.www: Flags [P.], seq 5156:5570, ack 4106, win 229, length 414
+18:25:14.133571 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], ack 5570, win 9949, length 0
+18:25:14.133997 IP www.wp.pl.www > migajek.us.to.34597: Flags [P.], seq 4106:4387, ack 5570, win 9949, length 281
+18:25:14.134015 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 4387, win 274, length 0
+18:25:14.189779 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 11074, win 15453, length 0
+18:25:15.008003 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], seq 7527:8987, ack 2515, win 233, length 1460
+18:25:15.008022 IP migajek.us.to.34596 > www.wp.pl.www: Flags [P.], seq 8987:9351, ack 2515, win 233, length 364
+18:25:15.011766 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], seq 11074:12534, ack 104690, win 1002, length 1460
+18:25:15.011782 IP migajek.us.to.34591 > www.wp.pl.www: Flags [P.], seq 12534:12902, ack 104690, win 1002, length 368
+18:25:15.015749 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], seq 5570:7030, ack 4387, win 274, length 1460
+18:25:15.015770 IP migajek.us.to.34597 > www.wp.pl.www: Flags [P.], seq 7030:7397, ack 4387, win 274, length 367
+18:25:15.023030 IP www.wp.pl.www > migajek.us.to.34596: Flags [.], ack 9351, win 13730, length 0
+18:25:15.023071 IP migajek.us.to.34598 > www.wp.pl.www: Flags [S], seq 1259643283, win 5840, options [mss 1460,sackOK,TS val 70693412 ecr 0,nop,wscale 6], length 0
+18:25:15.024875 IP www.wp.pl.www > migajek.us.to.34596: Flags [P.], seq 2515:2831, ack 9351, win 13730, length 316
+18:25:15.024917 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], ack 2831, win 279, length 0
+18:25:15.024924 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 12534, win 16913, length 0
+18:25:15.027139 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 104690:106150, ack 12902, win 17281, length 1460
+18:25:15.027174 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 106150, win 1002, length 0
+18:25:15.028246 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 106150:107610, ack 12902, win 17281, length 1460
+18:25:15.028276 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 107610, win 1002, length 0
+18:25:15.029226 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 107610:109070, ack 12902, win 17281, length 1460
+18:25:15.029250 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 109070, win 981, length 0
+18:25:15.030525 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 111990:113450, ack 12902, win 17281, length 1460
+18:25:15.030560 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 109070, win 981, options [nop,nop,sack 1 {111990:113450}], length 0
+18:25:15.031419 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 109070:110530, ack 12902, win 17281, length 1460
+18:25:15.031443 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 110530, win 959, options [nop,nop,sack 1 {111990:113450}], length 0
+18:25:15.032300 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 110530:111990, ack 12902, win 17281, length 1460
+18:25:15.032318 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 113450, win 916, length 0
+18:25:15.033561 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 113450:114910, ack 12902, win 17281, length 1460
+18:25:15.033577 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 114910, win 894, length 0
+18:25:15.034682 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 114910:116370, ack 12902, win 17281, length 1460
+18:25:15.034703 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 116370, win 872, length 0
+18:25:15.036370 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 116370:117830, ack 12902, win 17281, length 1460
+18:25:15.036402 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 117830, win 1002, length 0
+18:25:15.036587 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 117830:119290, ack 12902, win 17281, length 1460
+18:25:15.036594 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 119290, win 981, length 0
+18:25:15.037597 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 119290:120750, ack 12902, win 17281, length 1460
+18:25:15.037605 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 120750, win 959, length 0
+18:25:15.038664 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 120750:122210, ack 12902, win 17281, length 1460
+18:25:15.038686 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 122210, win 937, length 0
+18:25:15.039374 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 122210:123670, ack 12902, win 17281, length 1460
+18:25:15.039382 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 123670, win 916, length 0
+18:25:15.040271 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 123670:125130, ack 12902, win 17281, length 1460
+18:25:15.040292 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 125130, win 894, length 0
+18:25:15.041153 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 125130:126590, ack 12902, win 17281, length 1460
+18:25:15.041169 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 126590, win 872, length 0
+18:25:15.042649 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], seq 126590:128050, ack 12902, win 17281, length 1460
+18:25:15.042684 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 128050, win 850, length 0
+18:25:15.042690 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 128050:128471, ack 12902, win 17281, length 421
+18:25:15.042701 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 128471, win 844, length 0
+18:25:15.042704 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], ack 7397, win 11776, length 0
+18:25:15.044181 IP www.wp.pl.www > migajek.us.to.34597: Flags [P.], seq 4387:5577, ack 7397, win 11776, length 1190
+18:25:15.044212 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 5577, win 320, length 0
+18:25:15.044218 IP www.wp.pl.www > migajek.us.to.34598: Flags [S.], seq 512421845, ack 1259643284, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+18:25:15.044240 IP migajek.us.to.34598 > www.wp.pl.www: Flags [.], ack 1, win 92, length 0
+18:25:15.044686 IP migajek.us.to.34598 > www.wp.pl.www: Flags [.], seq 1:1461, ack 1, win 92, length 1460
+18:25:15.044700 IP migajek.us.to.34598 > www.wp.pl.www: Flags [P.], seq 1461:1827, ack 1, win 92, length 366
+18:25:15.055585 IP www.wp.pl.www > migajek.us.to.34598: Flags [.], ack 1461, win 5840, length 0
+18:25:15.061712 IP www.wp.pl.www > migajek.us.to.34598: Flags [P.], seq 1:783, ack 1827, win 6206, length 782
+18:25:15.061778 IP migajek.us.to.34598 > www.wp.pl.www: Flags [.], ack 783, win 116, length 0
+18:25:15.133561 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 12902, win 17281, length 0
+18:25:15.336016 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [P.], seq 1019:2060, ack 1562, win 8760, length 1041
+18:25:15.353763 IP dot.wp.pl.www > migajek.us.to.40625: Flags [.], seq 1562:2954, ack 2060, win 32767, length 1392
+18:25:15.353978 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [.], ack 2954, win 11680, length 0
+18:25:15.353991 IP dot.wp.pl.www > migajek.us.to.40625: Flags [P.], seq 2954:3123, ack 2060, win 32767, length 169
+18:25:15.354013 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [.], ack 3123, win 14600, length 0
+18:25:15.364897 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], seq 9351:10811, ack 2831, win 279, length 1460
+18:25:15.364917 IP migajek.us.to.34596 > www.wp.pl.www: Flags [P.], seq 10811:11222, ack 2831, win 279, length 411
+18:25:15.377740 IP www.wp.pl.www > migajek.us.to.34596: Flags [.], ack 11222, win 15601, length 0
+18:25:15.378149 IP www.wp.pl.www > migajek.us.to.34596: Flags [P.], seq 2831:3115, ack 11222, win 15601, length 284
+18:25:15.378172 IP migajek.us.to.34596 > www.wp.pl.www: Flags [.], ack 3115, win 324, length 0
+18:25:15.379085 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], seq 12902:14362, ack 128471, win 1002, length 1460
+18:25:15.379102 IP migajek.us.to.34591 > www.wp.pl.www: Flags [P.], seq 14362:14773, ack 128471, win 1002, length 411
+18:25:15.383955 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], seq 7397:8857, ack 5577, win 320, length 1460
+18:25:15.383975 IP migajek.us.to.34597 > www.wp.pl.www: Flags [P.], seq 8857:9218, ack 5577, win 320, length 361
+18:25:15.388085 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 14362, win 18741, length 0
+18:25:15.391786 IP www.wp.pl.www > migajek.us.to.34591: Flags [P.], seq 128471:128754, ack 14773, win 19152, length 283
+18:25:15.391836 IP migajek.us.to.34591 > www.wp.pl.www: Flags [.], ack 128754, win 1002, length 0
+18:25:15.395450 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], ack 9218, win 13597, length 0
+18:25:15.399711 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], seq 5577:7037, ack 9218, win 13597, length 1460
+18:25:15.399745 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 7037, win 365, length 0
+18:25:15.399754 IP www.wp.pl.www > migajek.us.to.34597: Flags [P.], seq 8497:8651, ack 9218, win 13597, length 154
+18:25:15.399765 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 7037, win 365, options [nop,nop,sack 1 {8497:8651}], length 0
+18:25:15.401382 IP www.wp.pl.www > migajek.us.to.34597: Flags [.], seq 7037:8497, ack 9218, win 13597, length 1460
+18:25:15.401423 IP migajek.us.to.34597 > www.wp.pl.www: Flags [.], ack 8651, win 411, length 0
+18:25:15.424295 IP migajek.us.to.36589 > 192.168.1.254.domain: 13185+ AAAA? adv.wp.pl. (27)
+18:25:15.432664 IP 192.168.1.254.domain > migajek.us.to.36589: 13185 0/1/0 (83)
+18:25:15.432797 IP migajek.us.to.41063 > 192.168.1.254.domain: 61079+ AAAA? adv.wp.pl. (27)
+18:25:15.434776 IP 192.168.1.254.domain > migajek.us.to.41063: 61079 0/1/0 (83)
+18:25:15.443268 IP migajek.us.to.57591 > 192.168.1.254.domain: 36948+ A? adv.wp.pl. (27)
+18:25:15.444742 IP 192.168.1.254.domain > migajek.us.to.57591: 36948 1/3/3 A 212.77.100.127 (154)
+18:25:15.451028 IP migajek.us.to.52233 > adv.wp.pl.www: Flags [S], seq 1264300158, win 5840, options [mss 1460,sackOK,TS val 70693519 ecr 0,nop,wscale 6], length 0
+18:25:15.451091 IP migajek.us.to.52234 > adv.wp.pl.www: Flags [S], seq 1263078453, win 5840, options [mss 1460,sackOK,TS val 70693519 ecr 0,nop,wscale 6], length 0
+18:25:15.451325 IP migajek.us.to.58122 > 192.168.1.254.domain: 38837+ PTR? 127.100.77.212.in-addr.arpa. (45)
+18:25:15.460059 IP adv.wp.pl.www > migajek.us.to.52233: Flags [S.], seq 1117238077, ack 1264300159, win 4380, options [mss 1460,nop,wscale 0,nop,nop,TS val 2126905169 ecr 70693519,sackOK,eol], length 0
+18:25:15.460115 IP migajek.us.to.52233 > adv.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693521 ecr 2126905169], length 0
+18:25:15.460120 IP adv.wp.pl.www > migajek.us.to.52234: Flags [S.], seq 1128356420, ack 1263078454, win 4380, options [mss 1460,nop,wscale 0,nop,nop,TS val 2126905169 ecr 70693519,sackOK,eol], length 0
+18:25:15.460127 IP migajek.us.to.52234 > adv.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693521 ecr 2126905169], length 0
+18:25:15.461846 IP 192.168.1.254.domain > migajek.us.to.58122: 38837 1/2/2 (136)
+18:25:15.463020 IP migajek.us.to.52233 > adv.wp.pl.www: Flags [P.], seq 1:1115, ack 1, win 92, options [nop,nop,TS val 70693522 ecr 2126905169], length 1114
+18:25:15.463038 IP migajek.us.to.52234 > adv.wp.pl.www: Flags [P.], seq 1:946, ack 1, win 92, options [nop,nop,TS val 70693522 ecr 2126905169], length 945
+18:25:15.475602 IP adv.wp.pl.www > migajek.us.to.52233: Flags [F.], seq 366, ack 1115, win 5494, options [nop,nop,TS val 2126905186 ecr 70693522], length 0
+18:25:15.475650 IP migajek.us.to.52233 > adv.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693525 ecr 2126905169,nop,nop,sack 1 {366:367}], length 0
+18:25:15.476833 IP adv.wp.pl.www > migajek.us.to.52233: Flags [P.], seq 1:366, ack 1115, win 5494, options [nop,nop,TS val 2126905186 ecr 70693522], length 365
+18:25:15.476868 IP migajek.us.to.52233 > adv.wp.pl.www: Flags [.], ack 367, win 108, options [nop,nop,TS val 70693525 ecr 2126905186], length 0
+18:25:15.478568 IP adv.wp.pl.www > migajek.us.to.52234: Flags [P.], seq 1:298, ack 946, win 5325, options [nop,nop,TS val 2126905186 ecr 70693522], length 297
+18:25:15.478604 IP migajek.us.to.52234 > adv.wp.pl.www: Flags [.], ack 298, win 108, options [nop,nop,TS val 70693525 ecr 2126905186], length 0
+18:25:15.483055 IP migajek.us.to.52233 > adv.wp.pl.www: Flags [F.], seq 1115, ack 367, win 108, options [nop,nop,TS val 70693527 ecr 2126905186], length 0
+18:25:15.489407 IP adv.wp.pl.www > migajek.us.to.52233: Flags [.], ack 1116, win 5494, options [nop,nop,TS val 2126905200 ecr 70693527], length 0
+18:25:15.498579 IP www.wp.pl.www > migajek.us.to.34591: Flags [.], ack 14773, win 19152, length 0
+18:25:15.869631 IP ip-91-197-13-37.gadu-gadu.pl.8074 > migajek.us.to.41839: Flags [P.], seq 106:132, ack 1, win 548, length 26
+18:25:15.869746 IP migajek.us.to.41839 > ip-91-197-13-37.gadu-gadu.pl.8074: Flags [.], ack 132, win 308, length 0
+18:25:15.935933 IP migajek.us.to.36491 > 192.168.1.254.domain: 3437+ AAAA? api.gadu-gadu.pl. (34)
+18:25:15.937816 IP 192.168.1.254.domain > migajek.us.to.36491: 3437 0/1/0 (79)
+18:25:15.940180 IP migajek.us.to.45564 > 192.168.1.254.domain: 21219+ AAAA? api.gadu-gadu.pl. (34)
+18:25:15.942048 IP 192.168.1.254.domain > migajek.us.to.45564: 21219 0/1/0 (79)
+18:25:15.942221 IP migajek.us.to.41299 > 192.168.1.254.domain: 55419+ A? api.gadu-gadu.pl. (34)
+18:25:15.944443 IP 192.168.1.254.domain > migajek.us.to.41299: 55419 2/2/2 A[|domain]
+18:25:15.966178 IP migajek.us.to.52234 > adv.wp.pl.www: Flags [P.], seq 946:2086, ack 298, win 108, options [nop,nop,TS val 70693647 ecr 2126905186], length 1140
+18:25:15.966364 IP migajek.us.to.52235 > adv.wp.pl.www: Flags [S], seq 1277708935, win 5840, options [mss 1460,sackOK,TS val 70693647 ecr 0,nop,wscale 6], length 0
+18:25:15.977590 IP adv.wp.pl.www > migajek.us.to.52235: Flags [S.], seq 2563363906, ack 1277708936, win 4380, options [mss 1460,nop,wscale 0,nop,nop,TS val 2126905688 ecr 70693647,sackOK,eol], length 0
+18:25:15.977647 IP migajek.us.to.52235 > adv.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693650 ecr 2126905688], length 0
+18:25:15.978053 IP migajek.us.to.52235 > adv.wp.pl.www: Flags [P.], seq 1:899, ack 1, win 92, options [nop,nop,TS val 70693650 ecr 2126905688], length 898
+18:25:15.978430 IP adv.wp.pl.www > migajek.us.to.52234: Flags [P.], seq 298:663, ack 2086, win 6465, options [nop,nop,TS val 2126905688 ecr 70693647], length 365
+18:25:15.978461 IP migajek.us.to.52234 > adv.wp.pl.www: Flags [.], ack 663, win 125, options [nop,nop,TS val 70693650 ecr 2126905688], length 0
+18:25:15.978465 IP adv.wp.pl.www > migajek.us.to.52234: Flags [F.], seq 663, ack 2086, win 6465, options [nop,nop,TS val 2126905688 ecr 70693647], length 0
+18:25:15.981858 IP migajek.us.to.52234 > adv.wp.pl.www: Flags [F.], seq 2086, ack 664, win 125, options [nop,nop,TS val 70693651 ecr 2126905688], length 0
+18:25:15.995814 IP adv.wp.pl.www > migajek.us.to.52235: Flags [P.], seq 1:1395, ack 899, win 5278, options [nop,nop,TS val 2126905700 ecr 70693650], length 1394
+18:25:15.995869 IP migajek.us.to.52235 > adv.wp.pl.www: Flags [.], ack 1395, win 137, options [nop,nop,TS val 70693655 ecr 2126905700], length 0
+18:25:15.995876 IP adv.wp.pl.www > migajek.us.to.52234: Flags [.], ack 2087, win 6465, options [nop,nop,TS val 2126905701 ecr 70693651], length 0
+18:25:16.034619 IP migajek.us.to.52235 > adv.wp.pl.www: Flags [P.], seq 899:2026, ack 1395, win 137, options [nop,nop,TS val 70693664 ecr 2126905700], length 1127
+18:25:16.043218 IP migajek.us.to.52236 > adv.wp.pl.www: Flags [S], seq 1278606240, win 5840, options [mss 1460,sackOK,TS val 70693667 ecr 0,nop,wscale 6], length 0
+18:25:16.048123 IP adv.wp.pl.www > migajek.us.to.52235: Flags [P.], seq 1395:1760, ack 2026, win 6405, options [nop,nop,TS val 2126905758 ecr 70693664], length 365
+18:25:16.048283 IP adv.wp.pl.www > migajek.us.to.52235: Flags [F.], seq 1760, ack 2026, win 6405, options [nop,nop,TS val 2126905758 ecr 70693664], length 0
+18:25:16.051580 IP adv.wp.pl.www > migajek.us.to.52236: Flags [S.], seq 4062506483, ack 1278606241, win 4380, options [mss 1460,nop,wscale 0,nop,nop,TS val 2126905763 ecr 70693667,sackOK,eol], length 0
+18:25:16.051607 IP migajek.us.to.52236 > adv.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693669 ecr 2126905763], length 0
+18:25:16.054762 IP migajek.us.to.40741 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [S], seq 1272178270, win 5840, options [mss 1460,sackOK,TS val 70693669 ecr 0,nop,wscale 6], length 0
+18:25:16.056442 IP migajek.us.to.52235 > adv.wp.pl.www: Flags [F.], seq 2026, ack 1761, win 181, options [nop,nop,TS val 70693670 ecr 2126905758], length 0
+18:25:16.056510 IP migajek.us.to.52236 > adv.wp.pl.www: Flags [P.], seq 1:936, ack 1, win 92, options [nop,nop,TS val 70693670 ecr 2126905763], length 935
+18:25:16.061916 IP adv.wp.pl.www > migajek.us.to.52235: Flags [.], ack 2027, win 6405, options [nop,nop,TS val 2126905773 ecr 70693670], length 0
+18:25:16.066235 IP adv.wp.pl.www > migajek.us.to.52236: Flags [P.], seq 1:298, ack 936, win 5315, options [nop,nop,TS val 2126905776 ecr 70693670], length 297
+18:25:16.066453 IP migajek.us.to.52236 > adv.wp.pl.www: Flags [.], ack 298, win 108, options [nop,nop,TS val 70693672 ecr 2126905776], length 0
+18:25:16.071597 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40741: Flags [S.], seq 1159643784, ack 1272178271, win 5840, options [mss 1460,nop,nop,sackOK,nop,wscale 4], length 0
+18:25:16.071792 IP migajek.us.to.40741 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [.], ack 1, win 92, length 0
+18:25:16.072368 IP migajek.us.to.40741 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [P.], seq 1:167, ack 1, win 92, length 166
+18:25:16.087973 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40741: Flags [.], ack 167, win 432, length 0
+18:25:16.097528 IP migajek.us.to.52236 > adv.wp.pl.www: Flags [P.], seq 936:2081, ack 298, win 108, options [nop,nop,TS val 70693680 ecr 2126905776], length 1145
+18:25:16.100657 IP migajek.us.to.52238 > adv.wp.pl.www: Flags [S], seq 1270051604, win 5840, options [mss 1460,sackOK,TS val 70693681 ecr 0,nop,wscale 6], length 0
+18:25:16.107974 IP adv.wp.pl.www > migajek.us.to.52238: Flags [S.], seq 4159178304, ack 1270051605, win 4380, options [mss 1460,nop,wscale 0,nop,nop,TS val 2126905819 ecr 70693681,sackOK,eol], length 0
+18:25:16.108021 IP migajek.us.to.52238 > adv.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693683 ecr 2126905819], length 0
+18:25:16.108192 IP migajek.us.to.52238 > adv.wp.pl.www: Flags [P.], seq 1:937, ack 1, win 92, options [nop,nop,TS val 70693683 ecr 2126905819], length 936
+18:25:16.108984 IP adv.wp.pl.www > migajek.us.to.52236: Flags [P.], seq 298:663, ack 2081, win 6460, options [nop,nop,TS val 2126905819 ecr 70693680], length 365
+18:25:16.109004 IP adv.wp.pl.www > migajek.us.to.52236: Flags [F.], seq 663, ack 2081, win 6460, options [nop,nop,TS val 2126905819 ecr 70693680], length 0
+18:25:16.109223 IP migajek.us.to.52236 > adv.wp.pl.www: Flags [F.], seq 2081, ack 664, win 125, options [nop,nop,TS val 70693683 ecr 2126905819], length 0
+18:25:16.117767 IP adv.wp.pl.www > migajek.us.to.52238: Flags [P.], seq 1:298, ack 937, win 5316, options [nop,nop,TS val 2126905828 ecr 70693683], length 297
+18:25:16.117815 IP migajek.us.to.52238 > adv.wp.pl.www: Flags [.], ack 298, win 108, options [nop,nop,TS val 70693685 ecr 2126905828], length 0
+18:25:16.118444 IP adv.wp.pl.www > migajek.us.to.52236: Flags [.], ack 2082, win 6460, options [nop,nop,TS val 2126905829 ecr 70693683], length 0
+18:25:16.132454 IP migajek.us.to.52238 > adv.wp.pl.www: Flags [P.], seq 937:2069, ack 298, win 108, options [nop,nop,TS val 70693689 ecr 2126905828], length 1132
+18:25:16.141724 IP migajek.us.to.52239 > adv.wp.pl.www: Flags [S], seq 1280813031, win 5840, options [mss 1460,sackOK,TS val 70693691 ecr 0,nop,wscale 6], length 0
+18:25:16.143405 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40741: Flags [P.], seq 1:693, ack 167, win 432, length 692
+18:25:16.143444 IP migajek.us.to.40741 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [.], ack 693, win 113, length 0
+18:25:16.148289 IP adv.wp.pl.www > migajek.us.to.52238: Flags [P.], seq 298:663, ack 2069, win 6448, options [nop,nop,TS val 2126905855 ecr 70693689], length 365
+18:25:16.148339 IP adv.wp.pl.www > migajek.us.to.52238: Flags [F.], seq 663, ack 2069, win 6448, options [nop,nop,TS val 2126905855 ecr 70693689], length 0
+18:25:16.151648 IP adv.wp.pl.www > migajek.us.to.52239: Flags [S.], seq 1790051713, ack 1280813032, win 4380, options [mss 1460,nop,wscale 0,nop,nop,TS val 2126905859 ecr 70693691,sackOK,eol], length 0
+18:25:16.151693 IP migajek.us.to.52239 > adv.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693694 ecr 2126905859], length 0
+18:25:16.151700 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40741: Flags [F.], seq 693, ack 167, win 432, length 0
+18:25:16.154782 IP migajek.us.to.52238 > adv.wp.pl.www: Flags [F.], seq 2069, ack 664, win 125, options [nop,nop,TS val 70693695 ecr 2126905855], length 0
+18:25:16.154845 IP migajek.us.to.52239 > adv.wp.pl.www: Flags [P.], seq 1:1142, ack 1, win 92, options [nop,nop,TS val 70693695 ecr 2126905859], length 1141
+18:25:16.155287 IP migajek.us.to.40741 > ip-91-197-13-247.gadu-gadu.pl.www: Flags [F.], seq 167, ack 694, win 113, length 0
+18:25:16.160407 IP adv.wp.pl.www > migajek.us.to.52238: Flags [.], ack 2070, win 6448, options [nop,nop,TS val 2126905871 ecr 70693695], length 0
+18:25:16.167539 IP adv.wp.pl.www > migajek.us.to.52239: Flags [P.], seq 1:366, ack 1142, win 5521, options [nop,nop,TS val 2126905877 ecr 70693695], length 365
+18:25:16.167598 IP migajek.us.to.52239 > adv.wp.pl.www: Flags [.], ack 366, win 108, options [nop,nop,TS val 70693698 ecr 2126905877], length 0
+18:25:16.167602 IP adv.wp.pl.www > migajek.us.to.52239: Flags [F.], seq 366, ack 1142, win 5521, options [nop,nop,TS val 2126905877 ecr 70693695], length 0
+18:25:16.171007 IP migajek.us.to.52239 > adv.wp.pl.www: Flags [F.], seq 1142, ack 367, win 108, options [nop,nop,TS val 70693699 ecr 2126905877], length 0
+18:25:16.175544 IP ip-91-197-13-247.gadu-gadu.pl.www > migajek.us.to.40741: Flags [.], ack 168, win 432, length 0
+18:25:16.179527 IP adv.wp.pl.www > migajek.us.to.52239: Flags [.], ack 1143, win 5521, options [nop,nop,TS val 2126905890 ecr 70693699], length 0
+18:25:16.211025 IP migajek.us.to.52240 > adv.wp.pl.www: Flags [S], seq 1277350152, win 5840, options [mss 1460,sackOK,TS val 70693709 ecr 0,nop,wscale 6], length 0
+18:25:16.219519 IP adv.wp.pl.www > migajek.us.to.52240: Flags [S.], seq 3398988316, ack 1277350153, win 4380, options [mss 1460,nop,wscale 0,nop,nop,TS val 2126905927 ecr 70693709,sackOK,eol], length 0
+18:25:16.219564 IP migajek.us.to.52240 > adv.wp.pl.www: Flags [.], ack 1, win 92, options [nop,nop,TS val 70693711 ecr 2126905927], length 0
+18:25:16.221246 IP migajek.us.to.52240 > adv.wp.pl.www: Flags [P.], seq 1:1034, ack 1, win 92, options [nop,nop,TS val 70693711 ecr 2126905927], length 1033
+18:25:16.231299 IP adv.wp.pl.www > migajek.us.to.52240: Flags [P.], seq 1:304, ack 1034, win 5413, options [nop,nop,TS val 2126905941 ecr 70693711], length 303
+18:25:16.231361 IP migajek.us.to.52240 > adv.wp.pl.www: Flags [.], ack 304, win 108, options [nop,nop,TS val 70693714 ecr 2126905941], length 0
+18:25:16.703010 IP migajek.us.to.32870 > 192.168.1.254.domain: 59803+ AAAA? poczta.wp.pl. (30)
+18:25:16.703225 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [P.], seq 2060:3111, ack 3123, win 14600, length 1051
+18:25:16.703448 IP migajek.us.to.51460 > 192.168.1.254.domain: 51493+ AAAA? bloog.pl. (26)
+18:25:16.703563 IP migajek.us.to.48464 > 192.168.1.254.domain: 8550+ AAAA? czat.wp.pl. (28)
+18:25:16.711731 IP 192.168.1.254.domain > migajek.us.to.32870: 59803 0/1/0 (86)
+18:25:16.712663 IP 192.168.1.254.domain > migajek.us.to.51460: 51493 0/1/0 (85)
+18:25:16.712741 IP migajek.us.to.42169 > 192.168.1.254.domain: 42355+ AAAA? bloog.pl. (26)
+18:25:16.712876 IP migajek.us.to.42392 > 192.168.1.254.domain: 39686+ AAAA? poczta.wp.pl. (30)
+18:25:16.715638 IP 192.168.1.254.domain > migajek.us.to.42169: 42355 0/1/0 (85)
+18:25:16.716811 IP 192.168.1.254.domain > migajek.us.to.48464: 8550 0/1/0 (84)
+18:25:16.717979 IP 192.168.1.254.domain > migajek.us.to.42392: 39686 0/1/0 (86)
+18:25:16.721464 IP dot.wp.pl.www > migajek.us.to.40625: Flags [.], seq 3123:4583, ack 3111, win 32767, length 1460
+18:25:16.721509 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [.], ack 4583, win 17520, length 0
+18:25:16.721525 IP dot.wp.pl.www > migajek.us.to.40625: Flags [P.], seq 4583:4684, ack 3111, win 32767, length 101
+18:25:16.721529 IP migajek.us.to.40625 > dot.wp.pl.www: Flags [.], ack 4684, win 17520, length 0
+18:25:16.721961 IP migajek.us.to.56359 > 192.168.1.254.domain: 43275+ A? bloog.pl. (26)
+18:25:16.722034 IP migajek.us.to.54322 > 192.168.1.254.domain: 30923+ AAAA? czat.wp.pl. (28)
+18:25:16.722177 IP migajek.us.to.39786 > 192.168.1.254.domain: 12876+ A? poczta.wp.pl. (30)
+18:25:16.724548 IP 192.168.1.254.domain > migajek.us.to.56359: 43275 1/2/2 A 212.77.100.149 (113)
+18:25:16.725932 IP 192.168.1.254.domain > migajek.us.to.54322: 30923 0/1/0 (84)
+18:25:16.726902 IP 192.168.1.254.domain > migajek.us.to.39786: 12876 1/3/3 A 212.77.101.148 (157)
+18:25:16.726974 IP migajek.us.to.51750 > 192.168.1.254.domain: 7550+ A? czat.wp.pl. (28)
+18:25:16.727284 IP migajek.us.to.45986 > 192.168.1.254.domain: 9589+ AAAA? centralagier.pl. (33)
+18:25:16.727583 IP migajek.us.to.35418 > 192.168.1.254.domain: 48226+ AAAA? docelu.pl. (27)
+18:25:16.729443 IP 192.168.1.254.domain > migajek.us.to.51750: 7550 1/3/3 A 212.77.100.113 (155)
+18:25:16.734290 IP 192.168.1.254.domain > migajek.us.to.45986: 9589 0/1/0 (92)
+18:25:16.734482 IP migajek.us.to.47801 > 192.168.1.254.domain: 36245+ AAAA? centralagier.pl. (33)
+18:25:16.736696 IP 192.168.1.254.domain > migajek.us.to.47801: 36245 0/1/0 (92)
+18:25:16.737622 IP 192.168.1.254.domain > migajek.us.to.35418: 48226 0/1/0 (86)
+18:25:16.738903 IP migajek.us.to.57513 > 192.168.1.254.domain: 35020+ AAAA? docelu.pl. (27)
+18:25:16.739319 IP migajek.us.to.59320 > 192.168.1.254.domain: 58974+ AAAA? tanio.pl. (26)
+18:25:16.739781 IP migajek.us.to.40403 > 192.168.1.254.domain: 5882+ A? centralagier.pl. (33)
+18:25:16.741785 IP 192.168.1.254.domain > migajek.us.to.57513: 35020 0/1/0 (86)
+18:25:16.744289 IP 192.168.1.254.domain > migajek.us.to.40403: 5882 1/2/2 A[|domain]
+18:25:16.746481 IP 192.168.1.254.domain > migajek.us.to.59320: 58974 0/1/0 (85)
+18:25:16.746622 IP migajek.us.to.49330 > 192.168.1.254.domain: 61329+ AAAA? tanio.pl. (26)
+18:25:16.748466 IP 192.168.1.254.domain > migajek.us.to.49330: 61329 0/1/0 (85)
+18:25:16.750992 IP migajek.us.to.52605 > 192.168.1.254.domain: 34489+ A? tanio.pl. (26)
+18:25:16.751162 IP migajek.us.to.46272 > 192.168.1.254.domain: 16429+ A? docelu.pl. (27)
+18:25:16.751480 IP migajek.us.to.41540 > 192.168.1.254.domain: 4105+ AAAA? aukcje.wp.pl. (30)
+18:25:16.753583 IP 192.168.1.254.domain > migajek.us.to.52605: 34489 1/2/2 A 212.77.100.135 (113)
+18:25:16.754564 IP 192.168.1.254.domain > migajek.us.to.46272: 16429 1/2/2 A 212.77.100.5 (114)
+18:25:16.758153 IP 192.168.1.254.domain > migajek.us.to.41540: 4105 0/1/0 (86)
+18:25:16.758367 IP migajek.us.to.50772 > 192.168.1.254.domain: 17773+ AAAA? aukcje.wp.pl. (30)
+18:25:16.760250 IP 192.168.1.254.domain > migajek.us.to.50772: 17773 0/1/0 (86)
+18:25:16.761145 IP migajek.us.to.47325 > 192.168.1.254.domain: 55038+ AAAA? bliscy.pl. (27)
+18:25:16.761302 IP migajek.us.to.56372 > 192.168.1.254.domain: 63072+ AAAA? kartki.wp.pl. (30)
+18:25:16.761426 IP migajek.us.to.45263 > 192.168.1.254.domain: 36371+ A? aukcje.wp.pl. (30)
+18:25:16.766469 IP 192.168.1.254.domain > migajek.us.to.45263: 36371 1/3/3 A 212.77.100.240 (157)
+18:25:16.767172 IP migajek.us.to.38388 > 192.168.1.254.domain: 43081+ AAAA? swieta.wp.pl. (30)
+18:25:16.768613 IP 192.168.1.254.domain > migajek.us.to.38388: 43081 1/1/0 CNAME[|domain]
+18:25:16.770694 IP migajek.us.to.54734 > 192.168.1.254.domain: 19054+ A? swieta.wp.pl. (30)
+18:25:16.770926 IP 192.168.1.254.domain > migajek.us.to.47325: 55038 0/1/0 (86)
+18:25:16.771031 IP migajek.us.to.41880 > 192.168.1.254.domain: 20927+ AAAA? bliscy.pl. (27)
+18:25:16.773577 IP 192.168.1.254.domain > migajek.us.to.54734: 19054 2/2/2 CNAME[|domain]
+18:25:16.774416 IP 192.168.1.254.domain > migajek.us.to.56372: 63072 0/1/0 (86)
+18:25:16.775179 IP migajek.us.to.50069 > 192.168.1.254.domain: 29320+ AAAA? mojestypendium.pl. (35)
+18:25:16.775306 IP migajek.us.to.34338 > 192.168.1.254.domain: 35880+ AAAA? kartki.wp.pl. (30)
+18:25:16.776681 IP 192.168.1.254.domain > migajek.us.to.41880: 20927 0/1/0 (86)
+18:25:16.777094 IP migajek.us.to.42743 > 192.168.1.254.domain: 65061+ A? bliscy.pl. (27)
+18:25:16.780081 IP 192.168.1.254.domain > migajek.us.to.34338: 35880 0/1/0 (86)
+18:25:16.780135 IP migajek.us.to.58132 > 192.168.1.254.domain: 8544+ A? kartki.wp.pl. (30)
+18:25:16.781847 IP 192.168.1.254.domain > migajek.us.to.50069: 29320 0/1/0 (94)
+18:25:16.781893 IP migajek.us.to.52471 > 192.168.1.254.domain: 17658+ AAAA? mojestypendium.pl. (35)
+18:25:16.783340 IP 192.168.1.254.domain > migajek.us.to.42743: 65061 1/2/2 A 212.77.100.157 (114)
+18:25:16.783559 IP migajek.us.to.43430 > 192.168.1.254.domain: 55841+ AAAA? waroftitans.wp.pl. (35)
+18:25:16.784923 IP 192.168.1.254.domain > migajek.us.to.58132: 8544 1/3/3 A 212.77.100.204 (157)
+18:25:16.785042 IP migajek.us.to.60572 > 192.168.1.254.domain: 10254+ AAAA? dzieci.wp.pl. (30)
+18:25:16.786903 IP 192.168.1.254.domain > migajek.us.to.52471: 17658 0/1/0 (94)
+18:25:16.786953 IP migajek.us.to.37734 > 192.168.1.254.domain: 22538+ A? mojestypendium.pl. (35)
+18:25:16.788415 IP 192.168.1.254.domain > migajek.us.to.43430: 55841 1/1/0 CNAME[|domain]
+18:25:16.788514 IP migajek.us.to.47828 > 192.168.1.254.domain: 39091+ A? waroftitans.wp.pl. (35)
+18:25:16.791337 IP 192.168.1.254.domain > migajek.us.to.37734: 22538 1/2/2 A[|domain]
+18:25:16.791548 IP migajek.us.to.48780 > 192.168.1.254.domain: 63729+ AAAA? dzieci.pl. (27)
+18:25:16.793053 IP 192.168.1.254.domain > migajek.us.to.47828: 39091 2/3/3 CNAME[|domain]
+18:25:16.793235 IP migajek.us.to.37814 > 192.168.1.254.domain: 60588+ AAAA? facet.wp.pl. (29)
+18:25:16.796280 IP 192.168.1.254.domain > migajek.us.to.60572: 10254 0/1/0 (86)
+18:25:16.796409 IP migajek.us.to.59962 > 192.168.1.254.domain: 55144+ AAAA? dzieci.wp.pl. (30)
+18:25:16.799755 IP 192.168.1.254.domain > migajek.us.to.59962: 55144 0/1/0 (86)
+18:25:16.799818 IP migajek.us.to.40244 > 192.168.1.254.domain: 30699+ A? dzieci.wp.pl. (30)
+18:25:16.801279 IP 192.168.1.254.domain > migajek.us.to.48780: 63729 0/1/0 (86)
+18:25:16.801327 IP migajek.us.to.46126 > 192.168.1.254.domain: 27351+ AAAA? dzieci.pl. (27)
+18:25:16.803449 IP 192.168.1.254.domain > migajek.us.to.40244: 30699 1/3/3 A 212.77.100.134 (157)
+18:25:16.803694 IP migajek.us.to.34410 > 192.168.1.254.domain: 11421+ AAAA? film.wp.pl. (28)
+18:25:16.804993 IP 192.168.1.254.domain > migajek.us.to.37814: 60588 0/1/0 (85)
+18:25:16.805043 IP migajek.us.to.49063 > 192.168.1.254.domain: 21082+ AAAA? facet.wp.pl. (29)
+18:25:16.806758 IP 192.168.1.254.domain > migajek.us.to.46126: 27351 0/1/0 (86)
+18:25:16.806828 IP migajek.us.to.54430 > 192.168.1.254.domain: 51013+ A? dzieci.pl. (27)
+18:25:16.810132 IP 192.168.1.254.domain > migajek.us.to.49063: 21082 0/1/0 (85)
+18:25:16.810180 IP migajek.us.to.37097 > 192.168.1.254.domain: 63176+ A? facet.wp.pl. (29)
+18:25:16.811660 IP 192.168.1.254.domain > migajek.us.to.54430: 51013 1/2/2 A 212.77.100.52 (114)
+18:25:16.811840 IP migajek.us.to.57627 > 192.168.1.254.domain: 9514+ AAAA? finanse.wp.pl. (31)
+18:25:16.813809 IP 192.168.1.254.domain > migajek.us.to.37097: 63176 1/3/3 A 212.77.100.138 (156)
+18:25:16.813942 IP migajek.us.to.47566 > 192.168.1.254.domain: 33858+ AAAA? future.wp.pl. (30)
+18:25:16.817018 IP 192.168.1.254.domain > migajek.us.to.34410: 11421 0/1/0 (84)
+18:25:16.817064 IP migajek.us.to.54903 > 192.168.1.254.domain: 25264+ AAAA? film.wp.pl. (28)
+18:25:16.820054 IP 192.168.1.254.domain > migajek.us.to.57627: 9514 0/1/0 (87)
+18:25:16.820107 IP migajek.us.to.41459 > 192.168.1.254.domain: 57753+ AAAA? finanse.wp.pl. (31)
+18:25:16.821821 IP 192.168.1.254.domain > migajek.us.to.54903: 25264 0/1/0 (84)
+18:25:16.821865 IP migajek.us.to.38057 > 192.168.1.254.domain: 50003+ A? film.wp.pl. (28)
+18:25:16.824244 IP 192.168.1.254.domain > migajek.us.to.41459: 57753 0/1/0 (87)
+18:25:16.824289 IP migajek.us.to.52553 > 192.168.1.254.domain: 56733+ A? finanse.wp.pl. (31)
+18:25:16.825785 IP 192.168.1.254.domain > migajek.us.to.47566: 33858 0/1/0 (86)
+18:25:16.825826 IP migajek.us.to.37366 > 192.168.1.254.domain: 28269+ AAAA? future.wp.pl. (30)
+18:25:16.827155 IP 192.168.1.254.domain > migajek.us.to.38057: 50003 1/3/3 A 212.77.99.3 (155)
+18:25:16.827295 IP migajek.us.to.39955 > 192.168.1.254.domain: 60578+ AAAA? gielda.wp.pl. (30)
+18:25:16.828723 IP 192.168.1.254.domain > migajek.us.to.52553: 56733 1/3/3 A 212.77.100.229 (158)
+18:25:16.828905 IP migajek.us.to.49927 > 192.168.1.254.domain: 2279+ AAAA? gryonline.wp.pl. (33)
+18:25:16.830654 IP 192.168.1.254.domain > migajek.us.to.37366: 28269 0/1/0 (86)
+18:25:16.831537 IP migajek.us.to.47149 > 192.168.1.254.domain: 3784+ A? future.wp.pl. (30)
+18:25:16.831570 IP 192.168.1.254.domain > migajek.us.to.39955: 60578 1/1/0 CNAME[|domain]
+18:25:16.831635 IP migajek.us.to.53920 > 192.168.1.254.domain: 27121+ A? gielda.wp.pl. (30)
+18:25:16.833623 IP 192.168.1.254.domain > migajek.us.to.49927: 2279 1/1/0 CNAME[|domain]
+18:25:16.833672 IP migajek.us.to.55678 > 192.168.1.254.domain: 27401+ A? gryonline.wp.pl. (33)
+18:25:16.835141 IP 192.168.1.254.domain > migajek.us.to.47149: 3784 1/3/3 A 212.77.100.22 (157)
+18:25:16.835332 IP migajek.us.to.47020 > 192.168.1.254.domain: 33868+ AAAA? horoskop.wp.pl. (32)
+18:25:16.836689 IP 192.168.1.254.domain > migajek.us.to.53920: 27121 2/3/3 CNAME[|domain]
+18:25:16.836842 IP migajek.us.to.36688 > 192.168.1.254.domain: 61156+ AAAA? kobieta.wp.pl. (31)
+18:25:16.838268 IP 192.168.1.254.domain > migajek.us.to.55678: 27401 4/2/2 CNAME[|domain]
+18:25:16.838456 IP migajek.us.to.47098 > 192.168.1.254.domain: 20780+ AAAA? ksiazki.wp.pl. (31)
+18:25:16.844731 IP 192.168.1.254.domain > migajek.us.to.47020: 33868 0/1/0 (88)
+18:25:16.844849 IP migajek.us.to.44652 > 192.168.1.254.domain: 33+ AAAA? horoskop.wp.pl. (32)
+18:25:16.846613 IP 192.168.1.254.domain > migajek.us.to.36688: 61156 0/1/0 (87)
+18:25:16.846662 IP migajek.us.to.38626 > 192.168.1.254.domain: 9957+ AAAA? kobieta.wp.pl. (31)
+18:25:16.848371 IP 192.168.1.254.domain > migajek.us.to.44652: 33 0/1/0 (88)
+18:25:16.848428 IP migajek.us.to.42138 > 192.168.1.254.domain: 52356+ A? horoskop.wp.pl. (32)
+18:25:16.849900 IP 192.168.1.254.domain > migajek.us.to.47098: 20780 0/1/0 (87)
+18:25:16.849945 IP migajek.us.to.39957 > 192.168.1.254.domain: 52267+ AAAA? ksiazki.wp.pl. (31)
+18:25:16.851683 IP 192.168.1.254.domain > migajek.us.to.38626: 9957 0/1/0 (87)
+18:25:16.851730 IP migajek.us.to.55301 > 192.168.1.254.domain: 37056+ A? kobieta.wp.pl. (31)
+18:25:16.853465 IP 192.168.1.254.domain > migajek.us.to.42138: 52356 1/3/3 A 212.77.100.16 (159)
+18:25:16.853688 IP migajek.us.to.37265 > 192.168.1.254.domain: 31220+ AAAA? kultura.wp.pl. (31)
+18:25:16.855438 IP 192.168.1.254.domain > migajek.us.to.39957: 52267 0/1/0 (87)
+18:25:16.855488 IP migajek.us.to.47983 > 192.168.1.254.domain: 45571+ A? ksiazki.wp.pl. (31)
+18:25:16.857167 IP 192.168.1.254.domain > migajek.us.to.55301: 37056 1/3/3 A 212.77.100.75 (158)
+18:25:16.857307 IP migajek.us.to.34874 > 192.168.1.254.domain: 18525+ AAAA? info.mini.wp.pl. (33)
+18:25:16.860240 IP 192.168.1.254.domain > migajek.us.to.47983: 45571 1/3/3 A 212.77.99.4 (158)
+18:25:16.860497 IP migajek.us.to.48563 > 192.168.1.254.domain: 14512+ AAAA? moto.wp.pl. (28)
+18:25:16.863576 IP 192.168.1.254.domain > migajek.us.to.37265: 31220 0/1/0 (87)
+18:25:16.863648 IP migajek.us.to.38722 > 192.168.1.254.domain: 25416+ AAAA? kultura.wp.pl. (31)
+18:25:16.866600 IP 192.168.1.254.domain > migajek.us.to.34874: 18525 0/1/0 (89)
+18:25:16.866649 IP migajek.us.to.39659 > 192.168.1.254.domain: 20732+ AAAA? info.mini.wp.pl. (33)
+18:25:16.868655 IP 192.168.1.254.domain > migajek.us.to.38722: 25416 0/1/0 (87)
+18:25:16.868705 IP migajek.us.to.59591 > 192.168.1.254.domain: 37443+ A? kultura.wp.pl. (31)
+18:25:16.870198 IP 192.168.1.254.domain > migajek.us.to.48563: 14512 0/1/0 (84)
+18:25:16.870244 IP migajek.us.to.45049 > 192.168.1.254.domain: 28882+ AAAA? moto.wp.pl. (28)
+18:25:16.871968 IP 192.168.1.254.domain > migajek.us.to.39659: 20732 0/1/0 (89)
+18:25:16.872014 IP migajek.us.to.53473 > 192.168.1.254.domain: 52121+ A? info.mini.wp.pl. (33)
+18:25:16.873730 IP 192.168.1.254.domain > migajek.us.to.59591: 37443 1/3/3 A 212.77.100.38 (158)
+18:25:16.873919 IP migajek.us.to.37133 > 192.168.1.254.domain: 2302+ AAAA? muzyka.wp.pl. (30)
+18:25:16.875897 IP 192.168.1.254.domain > migajek.us.to.45049: 28882 0/1/0 (84)
+18:25:16.875943 IP migajek.us.to.47377 > 192.168.1.254.domain: 23324+ A? moto.wp.pl. (28)
+18:25:16.877448 IP 192.168.1.254.domain > migajek.us.to.53473: 52121 1/3/3 A[|domain]
+18:25:16.877570 IP migajek.us.to.58399 > 192.168.1.254.domain: 33642+ AAAA? narty.wp.pl. (29)
+18:25:16.880443 IP 192.168.1.254.domain > migajek.us.to.47377: 23324 1/3/3 A 212.77.100.219 (155)
+18:25:16.880576 IP migajek.us.to.49541 > 192.168.1.254.domain: 6731+ AAAA? nocoty.pl. (27)
+18:25:16.881958 IP 192.168.1.254.domain > migajek.us.to.58399: 33642 1/1/0 CNAME[|domain]
+18:25:16.882006 IP migajek.us.to.56680 > 192.168.1.254.domain: 42706+ A? narty.wp.pl. (29)
+18:25:16.885406 IP 192.168.1.254.domain > migajek.us.to.56680: 42706 2/2/2 CNAME[|domain]
+18:25:16.885519 IP migajek.us.to.52142 > 192.168.1.254.domain: 9078+ AAAA? ogloszenia.wp.pl. (34)
+18:25:16.886956 IP 192.168.1.254.domain > migajek.us.to.37133: 2302 0/1/0 (86)
+18:25:16.887030 IP migajek.us.to.35024 > 192.168.1.254.domain: 48594+ AAAA? muzyka.wp.pl. (30)
+18:25:16.890270 IP 192.168.1.254.domain > migajek.us.to.35024: 48594 0/1/0 (86)
+18:25:16.890398 IP migajek.us.to.49602 > 192.168.1.254.domain: 16401+ A? muzyka.wp.pl. (30)
+18:25:16.891958 IP 192.168.1.254.domain > migajek.us.to.49541: 6731 0/1/0 (86)
+18:25:16.892006 IP migajek.us.to.48524 > 192.168.1.254.domain: 53164+ AAAA? nocoty.pl. (27)
+18:25:16.893678 IP 192.168.1.254.domain > migajek.us.to.49602: 16401 1/3/3 A 212.77.100.168 (157)
+18:25:16.893899 IP migajek.us.to.42216 > 192.168.1.254.domain: 14147+ AAAA? pogoda.wp.pl. (30)
+18:25:16.895659 IP 192.168.1.254.domain > migajek.us.to.48524: 53164 0/1/0 (86)
+18:25:16.895704 IP migajek.us.to.36912 > 192.168.1.254.domain: 64869+ A? nocoty.pl. (27)
+18:25:16.898890 IP 192.168.1.254.domain > migajek.us.to.52142: 9078 0/1/0 (90)
+18:25:16.898950 IP migajek.us.to.48229 > 192.168.1.254.domain: 35852+ AAAA? ogloszenia.wp.pl. (34)
+18:25:16.900265 IP 192.168.1.254.domain > migajek.us.to.36912: 64869 1/2/2 A 212.77.100.98 (114)
+18:25:16.900434 IP migajek.us.to.41318 > 192.168.1.254.domain: 681+ AAAA? praca.wp.pl. (29)
+18:25:16.902265 IP 192.168.1.254.domain > migajek.us.to.48229: 35852 0/1/0 (90)
+18:25:16.902314 IP migajek.us.to.45088 > 192.168.1.254.domain: 38613+ A? ogloszenia.wp.pl. (34)
+18:25:16.905644 IP 192.168.1.254.domain > migajek.us.to.42216: 14147 0/1/0 (86)
+18:25:16.905693 IP migajek.us.to.43115 > 192.168.1.254.domain: 36258+ AAAA? pogoda.wp.pl. (30)
+18:25:16.907051 IP 192.168.1.254.domain > migajek.us.to.45088: 38613 1/3/3 A[|domain]
+18:25:16.908536 IP 192.168.1.254.domain > migajek.us.to.43115: 36258 0/1/0 (86)
+18:25:16.908692 IP migajek.us.to.43153 > 192.168.1.254.domain: 50529+ A? pogoda.wp.pl. (30)
+18:25:16.909010 IP migajek.us.to.33000 > 192.168.1.254.domain: 22796+ AAAA? tv.wp.pl. (26)
+18:25:16.910694 IP 192.168.1.254.domain > migajek.us.to.41318: 681 0/1/0 (85)
+18:25:16.911102 IP migajek.us.to.55461 > 192.168.1.254.domain: 50241+ AAAA? praca.wp.pl. (29)
+18:25:16.912280 IP 192.168.1.254.domain > migajek.us.to.43153: 50529 1/3/3 A 212.77.100.133 (157)
+18:25:16.912687 IP migajek.us.to.48678 > 192.168.1.254.domain: 20599+ AAAA? erotyka.wp.pl. (31)
+18:25:16.916190 IP 192.168.1.254.domain > migajek.us.to.55461: 50241 0/1/0 (85)
+18:25:16.916267 IP migajek.us.to.38032 > 192.168.1.254.domain: 26345+ A? praca.wp.pl. (29)
+18:25:16.919467 IP 192.168.1.254.domain > migajek.us.to.33000: 22796 0/1/0 (82)
+18:25:16.919569 IP migajek.us.to.36388 > 192.168.1.254.domain: 29432+ AAAA? tv.wp.pl. (26)
+18:25:16.921020 IP 192.168.1.254.domain > migajek.us.to.38032: 26345 1/3/3 A 212.77.100.247 (156)
+18:25:16.921247 IP migajek.us.to.56306 > 192.168.1.254.domain: 44113+ AAAA? sport.wp.pl. (29)
+18:25:16.922579 IP 192.168.1.254.domain > migajek.us.to.48678: 20599 0/1/0 (87)
+18:25:16.922650 IP migajek.us.to.40536 > 192.168.1.254.domain: 8524+ AAAA? erotyka.wp.pl. (31)
+18:25:16.924507 IP 192.168.1.254.domain > migajek.us.to.36388: 29432 0/1/0 (82)
+18:25:16.924579 IP migajek.us.to.37925 > 192.168.1.254.domain: 49196+ A? tv.wp.pl. (26)
+18:25:16.927908 IP 192.168.1.254.domain > migajek.us.to.40536: 8524 0/1/0 (87)
+18:25:16.927983 IP migajek.us.to.55185 > 192.168.1.254.domain: 26187+ A? erotyka.wp.pl. (31)
+18:25:16.929486 IP 192.168.1.254.domain > migajek.us.to.37925: 49196 1/3/3 A 212.77.100.224 (153)
+18:25:16.929687 IP migajek.us.to.33454 > 192.168.1.254.domain: 35603+ AAAA? tech.wp.pl. (28)
+18:25:16.931066 IP 192.168.1.254.domain > migajek.us.to.55185: 26187 1/3/3 A 212.77.100.246 (158)
+18:25:16.931680 IP migajek.us.to.32988 > 192.168.1.254.domain: 64389+ AAAA? turystyka.wp.pl. (33)
+18:25:16.935859 IP 192.168.1.254.domain > migajek.us.to.56306: 44113 0/1/0 (85)
+18:25:16.935973 IP migajek.us.to.42258 > 192.168.1.254.domain: 54730+ AAAA? sport.wp.pl. (29)
+18:25:16.938271 IP 192.168.1.254.domain > migajek.us.to.42258: 54730 0/1/0 (85)
+18:25:16.938355 IP migajek.us.to.52859 > 192.168.1.254.domain: 40618+ A? sport.wp.pl. (29)
+18:25:16.939796 IP 192.168.1.254.domain > migajek.us.to.33454: 35603 0/1/0 (84)
+18:25:16.939870 IP migajek.us.to.47190 > 192.168.1.254.domain: 9478+ AAAA? tech.wp.pl. (28)
+18:25:16.941212 IP 192.168.1.254.domain > migajek.us.to.52859: 40618 1/3/3 A 212.77.100.126 (156)
+18:25:16.941628 IP migajek.us.to.45992 > 192.168.1.254.domain: 10550+ AAAA? www.pikeo.pl. (30)
+18:25:16.942762 IP 192.168.1.254.domain > migajek.us.to.32988: 64389 0/1/0 (89)
+18:25:16.942843 IP migajek.us.to.39482 > 192.168.1.254.domain: 15801+ AAAA? turystyka.wp.pl. (33)
+18:25:16.944856 IP 192.168.1.254.domain > migajek.us.to.47190: 9478 0/1/0 (84)
+18:25:16.944929 IP migajek.us.to.49016 > 192.168.1.254.domain: 17915+ A? tech.wp.pl. (28)
+18:25:16.946373 IP 192.168.1.254.domain > migajek.us.to.45992: 10550 1/1/0 CNAME pikeo.pl. (103)
+18:25:16.946451 IP migajek.us.to.37103 > 192.168.1.254.domain: 52558+ A? www.pikeo.pl. (30)
+18:25:16.948379 IP 192.168.1.254.domain > migajek.us.to.39482: 15801 0/1/0 (89)
+18:25:16.948453 IP migajek.us.to.60502 > 192.168.1.254.domain: 47431+ A? turystyka.wp.pl. (33)
+18:25:16.949957 IP 192.168.1.254.domain > migajek.us.to.49016: 17915 1/3/3 A 212.77.100.111 (155)
+18:25:16.950181 IP migajek.us.to.38184 > 192.168.1.254.domain: 58579+ AAAA? wikipedia.wp.pl. (33)
+18:25:16.951534 IP 192.168.1.254.domain > migajek.us.to.37103: 52558 2/2/2 CNAME pikeo.pl., (131)
+18:25:16.951756 IP migajek.us.to.52281 > 192.168.1.254.domain: 280+ AAAA? prezent.wp.pl. (31)
+18:25:16.953257 IP 192.168.1.254.domain > migajek.us.to.60502: 47431 1/3/3 A[|domain]
+18:25:16.953477 IP migajek.us.to.55964 > 192.168.1.254.domain: 2123+ AAAA? doserca.pl. (28)
+18:25:16.956265 IP 192.168.1.254.domain > migajek.us.to.52281: 280 1/1/0 CNAME[|domain]
+18:25:16.956401 IP migajek.us.to.47661 > 192.168.1.254.domain: 41340+ A? prezent.wp.pl. (31)
+18:25:16.959297 IP 192.168.1.254.domain > migajek.us.to.47661: 41340 2/2/2 CNAME[|domain]
+18:25:16.959559 IP migajek.us.to.50000 > 192.168.1.254.domain: 2836+ AAAA? www.tosiewytnie.pl. (36)
+18:25:16.963670 IP 192.168.1.254.domain > migajek.us.to.38184: 58579 0/1/0 (89)
+18:25:16.963752 IP migajek.us.to.46027 > 192.168.1.254.domain: 37189+ AAAA? wikipedia.wp.pl. (33)
+18:25:16.965512 IP 192.168.1.254.domain > migajek.us.to.55964: 2123 0/1/0 (87)
+18:25:16.965581 IP migajek.us.to.52667 > 192.168.1.254.domain: 4509+ AAAA? doserca.pl. (28)
+18:25:16.967354 IP 192.168.1.254.domain > migajek.us.to.46027: 37189 0/1/0 (89)
+18:25:16.967428 IP migajek.us.to.56051 > 192.168.1.254.domain: 34470+ A? wikipedia.wp.pl. (33)
+18:25:16.968913 IP 192.168.1.254.domain > migajek.us.to.50000: 2836 0/1/0 (95)
+18:25:16.968986 IP migajek.us.to.50529 > 192.168.1.254.domain: 45364+ AAAA? www.tosiewytnie.pl. (36)
+18:25:16.970755 IP 192.168.1.254.domain > migajek.us.to.52667: 4509 0/1/0 (87)
+18:25:16.970833 IP migajek.us.to.50245 > 192.168.1.254.domain: 16601+ A? doserca.pl. (28)
+18:25:16.972740 IP 192.168.1.254.domain > migajek.us.to.56051: 34470 1/3/3 A[|domain]
+18:25:16.973006 IP migajek.us.to.49008 > 192.168.1.254.domain: 28399+ AAAA? finansomat.wp.pl. (34)
+18:25:16.975478 IP 192.168.1.254.domain > migajek.us.to.50529: 45364 0/1/0 (95)
+18:25:16.975559 IP migajek.us.to.47720 > 192.168.1.254.domain: 38495+ A? www.tosiewytnie.pl. (36)
+18:25:16.977826 IP 192.168.1.254.domain > migajek.us.to.50245: 16601 1/2/2 A 91.121.222.69 (115)
+18:25:16.978024 IP migajek.us.to.45600 > 192.168.1.254.domain: 31365+[|domain]
+18:25:16.979362 IP 192.168.1.254.domain > migajek.us.to.49008: 28399 1/1/0 CNAME[|domain]
+18:25:16.979442 IP migajek.us.to.40569 > 192.168.1.254.domain: 5429+ A? finansomat.wp.pl. (34)
+18:25:16.980964 IP 192.168.1.254.domain > migajek.us.to.47720: 38495 1/2/2 A[|domain]
+18:25:16.981159 IP migajek.us.to.47760 > 192.168.1.254.domain: 56771+ AAAA? przewodnik.wp.pl. (34)
+18:25:16.983438 IP 192.168.1.254.domain > migajek.us.to.45600: 31365 1/1/0 (135)
+18:25:16.983970 IP migajek.us.to.54087 > 192.168.1.254.domain: 3977+[|domain]
+18:25:16.986058 IP 192.168.1.254.domain > migajek.us.to.40569: 5429 2/2/1 CNAME[|domain]
+18:25:16.986382 IP migajek.us.to.51707 > 192.168.1.254.domain: 17941+ AAAA? ekstraklasa.wp.pl. (35)
+18:25:16.990046 IP 192.168.1.254.domain > migajek.us.to.54087: 3977 2/2/2[|domain]
+18:25:16.990302 IP migajek.us.to.33991 > 192.168.1.254.domain: 41993+ AAAA? ekstraliga.wp.pl. (34)
+18:25:16.995268 IP 192.168.1.254.domain > migajek.us.to.47760: 56771 0/1/0 (90)
+18:25:16.995517 IP migajek.us.to.55076 > 192.168.1.254.domain: 6992+ AAAA? przewodnik.wp.pl. (34)
+18:25:16.997341 IP 192.168.1.254.domain > migajek.us.to.51707: 17941 0/1/0 (91)
+18:25:16.997419 IP migajek.us.to.53475 > 192.168.1.254.domain: 11005+ AAAA? ekstraklasa.wp.pl. (35)
+18:25:16.998881 IP 192.168.1.254.domain > migajek.us.to.33991: 41993 0/1/0 (90)
+18:25:16.998956 IP migajek.us.to.44022 > 192.168.1.254.domain: 46168+ AAAA? ekstraliga.wp.pl. (34)
+18:25:17.000729 IP 192.168.1.254.domain > migajek.us.to.55076: 6992 0/1/0 (90)
+18:25:17.000817 IP migajek.us.to.54937 > 192.168.1.254.domain: 22259+ A? przewodnik.wp.pl. (34)
+18:25:17.002797 IP 192.168.1.254.domain > migajek.us.to.53475: 11005 0/1/0 (91)
+18:25:17.002953 IP migajek.us.to.42388 > 192.168.1.254.domain: 29700+ A? ekstraklasa.wp.pl. (35)
+18:25:17.004855 IP 192.168.1.254.domain > migajek.us.to.44022: 46168 0/1/0 (90)
+18:25:17.004925 IP migajek.us.to.58928 > 192.168.1.254.domain: 1411+ A? ekstraliga.wp.pl. (34)
+18:25:17.006437 IP 192.168.1.254.domain > migajek.us.to.54937: 22259 1/3/3 A[|domain]
+18:25:17.006833 IP migajek.us.to.48876 > 192.168.1.254.domain: 52690+ AAAA? encyklopedia.wp.pl. (36)
+18:25:17.008032 IP 192.168.1.254.domain > migajek.us.to.42388: 29700 1/3/3 A[|domain]
+18:25:17.008267 IP migajek.us.to.36681 > 192.168.1.254.domain: 64000+ AAAA? f1.wp.pl. (26)
+18:25:17.009629 IP 192.168.1.254.domain > migajek.us.to.58928: 1411 1/3/3 A[|domain]
+18:25:17.009826 IP migajek.us.to.49724 > 192.168.1.254.domain: 27710+ AAAA? konflikty.wp.pl. (33)
+18:25:17.016896 IP 192.168.1.254.domain > migajek.us.to.48876: 52690 0/1/0 (92)
+18:25:17.017816 IP 192.168.1.254.domain > migajek.us.to.36681: 64000 0/1/0 (82)
+18:25:17.019598 IP migajek.us.to.56014 > 192.168.1.254.domain: 21700+ AAAA? encyklopedia.wp.pl. (36)
+18:25:17.019702 IP migajek.us.to.60315 > 192.168.1.254.domain: 48156+ AAAA? f1.wp.pl. (26)
+18:25:17.021420 IP 192.168.1.254.domain > migajek.us.to.49724: 27710 0/1/0 (89)
+18:25:17.022975 IP 192.168.1.254.domain > migajek.us.to.56014: 21700 0/1/0 (92)
+18:25:17.024360 IP 192.168.1.254.domain > migajek.us.to.60315: 48156 0/1/0 (82)
+18:25:17.026915 IP migajek.us.to.46854 > 192.168.1.254.domain: 38763+ A? f1.wp.pl. (26)
+18:25:17.027080 IP migajek.us.to.33097 > 192.168.1.254.domain: 61091+ AAAA? konflikty.wp.pl. (33)
+18:25:17.027181 IP migajek.us.to.37229 > 192.168.1.254.domain: 22200+ A? encyklopedia.wp.pl. (36)
+18:25:17.029401 IP 192.168.1.254.domain > migajek.us.to.46854: 38763 1/3/3 A 212.77.100.59 (153)
+18:25:17.030790 IP 192.168.1.254.domain > migajek.us.to.33097: 61091 0/1/0 (89)
+18:25:17.031798 IP 192.168.1.254.domain > migajek.us.to.37229: 22200 1/3/3 A[|domain]
+18:25:17.035201 IP migajek.us.to.43905 > 192.168.1.254.domain: 44594+ AAAA? media.wp.pl. (29)
+18:25:17.035940 IP migajek.us.to.35318 > 192.168.1.254.domain: 42387+ AAAA? nauka.wp.pl. (29)
+18:25:17.036252 IP migajek.us.to.42422 > 192.168.1.254.domain: 37795+ A? konflikty.wp.pl. (33)
+18:25:17.040714 IP 192.168.1.254.domain > migajek.us.to.42422: 37795 1/3/3 A[|domain]
+18:25:17.043119 IP migajek.us.to.44512 > 192.168.1.254.domain: 9171+ AAAA? pozbierane.pl. (31)
+18:25:17.043466 IP 192.168.1.254.domain > migajek.us.to.43905: 44594 0/1/0 (85)
+18:25:17.047361 IP 192.168.1.254.domain > migajek.us.to.35318: 42387 0/1/0 (85)
+18:25:17.050840 IP migajek.us.to.52579 > 192.168.1.254.domain: 45928+ AAAA? nauka.wp.pl. (29)
+18:25:17.050955 IP migajek.us.to.43145 > 192.168.1.254.domain: 34564+ AAAA? media.wp.pl. (29)
+18:25:17.052320 IP 192.168.1.254.domain > migajek.us.to.44512: 9171 0/1/0 (90)
+18:25:17.053884 IP 192.168.1.254.domain > migajek.us.to.52579: 45928 0/1/0 (85)
+18:25:17.055289 IP 192.168.1.254.domain > migajek.us.to.43145: 34564 0/1/0 (85)
+18:25:17.058860 IP migajek.us.to.50137 > 192.168.1.254.domain: 29401+ A? media.wp.pl. (29)
+18:25:17.059002 IP migajek.us.to.59551 > 192.168.1.254.domain: 13347+ AAAA? pozbierane.pl. (31)
+18:25:17.059096 IP migajek.us.to.42154 > 192.168.1.254.domain: 20522+ A? nauka.wp.pl. (29)
+18:25:17.061418 IP 192.168.1.254.domain > migajek.us.to.50137: 29401 1/3/3 A 212.77.100.236 (156)
+18:25:17.062968 IP 192.168.1.254.domain > migajek.us.to.59551: 13347 0/1/0 (90)
+18:25:17.063959 IP migajek.us.to.56546 > 192.168.1.254.domain: 49708+ AAAA? polonia.wp.pl. (31)
+18:25:17.063992 IP 192.168.1.254.domain > migajek.us.to.42154: 20522 1/3/3 A 212.77.100.239 (156)
+18:25:17.064195 IP migajek.us.to.44877 > 192.168.1.254.domain: 47225+ AAAA? rss.wp.pl. (27)
+18:25:17.064264 IP migajek.us.to.39295 > 192.168.1.254.domain: 61577+ A? pozbierane.pl. (31)
+18:25:17.069425 IP 192.168.1.254.domain > migajek.us.to.39295: 61577 1/2/2 A 80.12.202.114 (118)
+18:25:17.069735 IP migajek.us.to.46868 > 192.168.1.254.domain: 17185+ AAAA? sondaz.wp.pl. (30)
+18:25:17.109633 IP 192.168.1.254.domain > migajek.us.to.56546: 49708 0/1/0 (87)
+18:25:17.109852 IP migajek.us.to.48881 > 192.168.1.254.domain: 16360+ AAAA? polonia.wp.pl. (31)
+18:25:17.114083 IP 192.168.1.254.domain > migajek.us.to.44877: 47225 0/1/0 (83)
+18:25:17.114186 IP migajek.us.to.58057 > 192.168.1.254.domain: 41126+ AAAA? rss.wp.pl. (27)
+18:25:17.129551 IP 192.168.1.254.domain > migajek.us.to.48881: 16360 0/1/0 (87)
+18:25:17.129672 IP migajek.us.to.55296 > 192.168.1.254.domain: 45524+ A? polonia.wp.pl. (31)
+18:25:17.131099 IP 192.168.1.254.domain > migajek.us.to.46868: 17185 0/1/0 (86)
+18:25:17.131175 IP migajek.us.to.43192 > 192.168.1.254.domain: 39682+ AAAA? sondaz.wp.pl. (30)
+18:25:17.133032 IP 192.168.1.254.domain > migajek.us.to.58057: 41126 0/1/0 (83)
+18:25:17.133115 IP migajek.us.to.60389 > 192.168.1.254.domain: 45835+ A? rss.wp.pl. (27)
+18:25:17.134649 IP 192.168.1.254.domain > migajek.us.to.55296: 45524 1/3/3 A 212.77.100.92 (158)
+18:25:17.135005 IP migajek.us.to.41980 > 192.168.1.254.domain: 4076+ AAAA? wp.tv. (23)
+18:25:17.136614 IP 192.168.1.254.domain > migajek.us.to.43192: 39682 0/1/0 (86)
+18:25:17.136692 IP migajek.us.to.50434 > 192.168.1.254.domain: 65504+ A? sondaz.wp.pl. (30)
+18:25:17.138216 IP 192.168.1.254.domain > migajek.us.to.60389: 45835 1/3/3 A 212.77.100.120 (154)
+18:25:17.138425 IP migajek.us.to.42238 > 192.168.1.254.domain: 24641+ AAAA? wiadomosci.wp.pl. (34)
+18:25:17.141255 IP 192.168.1.254.domain > migajek.us.to.50434: 65504 1/3/3 A 212.77.100.249 (157)
+18:25:17.141511 IP migajek.us.to.45434 > 192.168.1.254.domain: 59638+ AAAA? aleseriale.pl. (31)
+18:25:17.144704 IP 192.168.1.254.domain > migajek.us.to.41980: 4076 0/1/0 (84)
+18:25:17.144778 IP migajek.us.to.47192 > 192.168.1.254.domain: 2013+ AAAA? wp.tv. (23)
+18:25:17.148064 IP 192.168.1.254.domain > migajek.us.to.47192: 2013 0/1/0 (84)
+18:25:17.148139 IP migajek.us.to.56331 > 192.168.1.254.domain: 51957+ A? wp.tv. (23)
+18:25:17.149779 IP 192.168.1.254.domain > migajek.us.to.42238: 24641 0/1/0 (90)
+18:25:17.149853 IP migajek.us.to.46549 > 192.168.1.254.domain: 58735+ AAAA? wiadomosci.wp.pl. (34)
+18:25:17.151647 IP 192.168.1.254.domain > migajek.us.to.56331: 51957 1/2/2 A 212.77.100.188 (112)
+18:25:17.151864 IP migajek.us.to.46098 > 192.168.1.254.domain: 54707+ AAAA? casino.wp.pl. (30)
+18:25:17.153343 IP 192.168.1.254.domain > migajek.us.to.45434: 59638 0/1/0 (90)
+18:25:17.153417 IP migajek.us.to.55364 > 192.168.1.254.domain: 27999+ AAAA? aleseriale.pl. (31)
+18:25:17.155173 IP 192.168.1.254.domain > migajek.us.to.46549: 58735 0/1/0 (90)
+18:25:17.155250 IP migajek.us.to.34041 > 192.168.1.254.domain: 37317+ A? wiadomosci.wp.pl. (34)
+18:25:17.158623 IP 192.168.1.254.domain > migajek.us.to.55364: 27999 0/1/0 (90)
+18:25:17.158694 IP migajek.us.to.36708 > 192.168.1.254.domain: 26150+ A? aleseriale.pl. (31)
+18:25:17.160471 IP 192.168.1.254.domain > migajek.us.to.46098: 54707 0/1/0 (86)
+18:25:17.160540 IP migajek.us.to.54481 > 192.168.1.254.domain: 61325+ AAAA? casino.wp.pl. (30)
+18:25:17.161927 IP 192.168.1.254.domain > migajek.us.to.34041: 37317 1/3/3 A[|domain]
+18:25:17.162159 IP migajek.us.to.39246 > 192.168.1.254.domain: 33858+ AAAA? czarnabila.pl. (31)
+18:25:17.163756 IP 192.168.1.254.domain > migajek.us.to.36708: 26150 1/2/2 A 212.77.100.180 (118)
+18:25:17.164086 IP migajek.us.to.41728 > 192.168.1.254.domain: 14538+ AAAA? www.drfun.pl. (30)
+18:25:17.165744 IP 192.168.1.254.domain > migajek.us.to.54481: 61325 0/1/0 (86)
+18:25:17.165831 IP migajek.us.to.58125 > 192.168.1.254.domain: 20467+ A? casino.wp.pl. (30)
+18:25:17.170169 IP 192.168.1.254.domain > migajek.us.to.58125: 20467 1/3/3 A 77.79.225.178 (157)
+18:25:17.170396 IP migajek.us.to.60470 > 192.168.1.254.domain: 42961+ AAAA? grajlandia.pl. (31)
+18:25:17.174269 IP 192.168.1.254.domain > migajek.us.to.39246: 33858 0/1/0 (90)
+18:25:17.174346 IP migajek.us.to.33468 > 192.168.1.254.domain: 13889+ AAAA? czarnabila.pl. (31)
+18:25:17.175977 IP 192.168.1.254.domain > migajek.us.to.41728: 14538 0/1/0 (89)
+18:25:17.176056 IP migajek.us.to.48324 > 192.168.1.254.domain: 32462+ AAAA? www.drfun.pl. (30)
+18:25:17.177988 IP 192.168.1.254.domain > migajek.us.to.33468: 13889 0/1/0 (90)
+18:25:17.178085 IP migajek.us.to.56728 > 192.168.1.254.domain: 45590+ A? czarnabila.pl. (31)
+18:25:17.179742 IP 192.168.1.254.domain > migajek.us.to.60470: 42961 0/1/0 (90)
+18:25:17.179813 IP migajek.us.to.34519 > 192.168.1.254.domain: 50188+ AAAA? grajlandia.pl. (31)
+18:25:17.181587 IP 192.168.1.254.domain > migajek.us.to.48324: 32462 0/1/0 (89)
+18:25:17.182549 IP 192.168.1.254.domain > migajek.us.to.56728: 45590 1/2/2 A 174.120.138.136 (118)
+18:25:17.184091 IP 192.168.1.254.domain > migajek.us.to.34519: 50188 0/1/0 (90)
+18:25:17.186597 IP migajek.us.to.37690 > 192.168.1.254.domain: 11713+ A? www.drfun.pl. (30)
+18:25:17.187015 IP migajek.us.to.59215 > 192.168.1.254.domain: 1759+ AAAA? gry.wp.pl. (27)
+18:25:17.187115 IP migajek.us.to.54774 > 192.168.1.254.domain: 64625+ A? grajlandia.pl. (31)
+18:25:17.189100 IP 192.168.1.254.domain > migajek.us.to.37690: 11713 1/2/2 A 62.116.24.83 (117)
+18:25:17.191535 IP 192.168.1.254.domain > migajek.us.to.54774: 64625 1/2/2 A 212.77.104.43 (118)
+18:25:17.195162 IP migajek.us.to.47549 > 192.168.1.254.domain: 17127+ AAAA? gryjava.wp.pl. (31)
+18:25:17.195458 IP 192.168.1.254.domain > migajek.us.to.59215: 1759 0/1/0 (83)
+18:25:17.195485 IP migajek.us.to.53051 > 192.168.1.254.domain: 50963+ AAAA? www.komiksomania.pl. (37)
+18:25:17.195544 IP migajek.us.to.42099 > 192.168.1.254.domain: 42386+ AAAA? gry.wp.pl. (27)
+18:25:17.201065 IP 192.168.1.254.domain > migajek.us.to.42099: 42386 0/1/0 (83)
+18:25:17.203011 IP migajek.us.to.45542 > 192.168.1.254.domain: 7263+ A? gry.wp.pl. (27)
+18:25:17.204567 IP 192.168.1.254.domain > migajek.us.to.45542: 7263 1/3/3 A 212.77.104.18 (154)
+18:25:17.206631 IP 192.168.1.254.domain > migajek.us.to.47549: 17127 0/1/0 (87)
+18:25:17.207574 IP 192.168.1.254.domain > migajek.us.to.53051: 50963 0/1/0 (96)
+18:25:17.210941 IP migajek.us.to.55769 > 192.168.1.254.domain: 1647+ AAAA? www.komiksomania.pl. (37)
+18:25:17.211391 IP migajek.us.to.52005 > 192.168.1.254.domain: 55607+ AAAA? mp3.wp.pl. (27)
+18:25:17.211540 IP migajek.us.to.50060 > 192.168.1.254.domain: 32784+ AAAA? gryjava.wp.pl. (31)
+18:25:17.214041 IP 192.168.1.254.domain > migajek.us.to.55769: 1647 0/1/0 (96)
+18:25:17.217256 IP 192.168.1.254.domain > migajek.us.to.50060: 32784 0/1/0 (87)
+18:25:17.218948 IP migajek.us.to.56462 > 192.168.1.254.domain: 12644+ A? gryjava.wp.pl. (31)
+18:25:17.219137 IP migajek.us.to.58154 > 192.168.1.254.domain: 14393+ A? www.komiksomania.pl. (37)
+18:25:17.221173 IP 192.168.1.254.domain > migajek.us.to.52005: 55607 0/1/0 (83)
+18:25:17.222021 IP 192.168.1.254.domain > migajek.us.to.56462: 12644 1/3/3 A 91.121.91.191 (158)
+18:25:17.223105 IP 192.168.1.254.domain > migajek.us.to.58154: 14393 1/2/2 (124)
+18:25:17.227199 IP migajek.us.to.58328 > 192.168.1.254.domain: 28216+ AAAA? melon.wp.pl. (29)
+18:25:17.227654 IP migajek.us.to.60878 > 192.168.1.254.domain: 17307+ AAAA? mp3.wp.pl. (27)
+18:25:17.227914 IP migajek.us.to.33962 > 192.168.1.254.domain: 4030+ AAAA? pasztetowo.pl. (31)
+18:25:17.231549 IP 192.168.1.254.domain > migajek.us.to.60878: 17307 0/1/0 (83)
+18:25:17.235895 IP migajek.us.to.33670 > 192.168.1.254.domain: 1760+ A? mp3.wp.pl. (27)
+18:25:17.237928 IP 192.168.1.254.domain > migajek.us.to.33670: 1760 1/3/3 A 212.77.99.5 (154)
+18:25:17.238872 IP 192.168.1.254.domain > migajek.us.to.58328: 28216 0/1/0 (85)
+18:25:17.239821 IP 192.168.1.254.domain > migajek.us.to.33962: 4030 0/1/0 (90)
+18:25:17.241341 IP migajek.us.to.57667 > 192.168.1.254.domain: 15602+ AAAA? pasztetowo.pl. (31)
+18:25:17.243410 IP 192.168.1.254.domain > migajek.us.to.57667: 15602 0/1/0 (90)
+18:25:17.253314 IP migajek.us.to.59821 > 192.168.1.254.domain: 14723+ AAAA? tosiewytnie.pl. (32)
+18:25:17.253429 IP migajek.us.to.51478 > 192.168.1.254.domain: 62956+ AAAA? melon.wp.pl. (29)
+18:25:17.253587 IP migajek.us.to.60844 > 192.168.1.254.domain: 26913+ A? pasztetowo.pl. (31)
+18:25:17.257695 IP 192.168.1.254.domain > migajek.us.to.51478: 62956 0/1/0 (85)
+18:25:17.258688 IP 192.168.1.254.domain > migajek.us.to.60844: 26913 1/2/2 A 212.77.103.72 (118)
+18:25:17.262641 IP 192.168.1.254.domain > migajek.us.to.59821: 14723 0/1/0 (91)
+18:25:17.262870 IP migajek.us.to.34707 > 192.168.1.254.domain: 36463+ AAAA? tosiewytnie.pl. (32)
+18:25:17.263169 IP migajek.us.to.53532 > 192.168.1.254.domain: 40946+ A? melon.wp.pl. (29)
+18:25:17.263560 IP migajek.us.to.59253 > 192.168.1.254.domain: 18453+ AAAA? whosegame.pl. (30)
+18:25:17.265867 IP 192.168.1.254.domain > migajek.us.to.34707: 36463 0/1/0 (91)
+18:25:17.266061 IP migajek.us.to.48580 > 192.168.1.254.domain: 1040+ A? tosiewytnie.pl. (32)
+18:25:17.267504 IP 192.168.1.254.domain > migajek.us.to.53532: 40946 1/3/3 A 81.0.239.132 (156)
+18:25:17.269885 IP 192.168.1.254.domain > migajek.us.to.48580: 1040 1/2/2 A 212.77.100.96 (119)
+18:25:17.273623 IP 192.168.1.254.domain > migajek.us.to.59253: 18453 0/1/0 (89)
+18:25:17.273803 IP migajek.us.to.42599 > 192.168.1.254.domain: 30070+ AAAA? whosegame.pl. (30)
+18:25:17.274263 IP migajek.us.to.45948 > 192.168.1.254.domain: 2511+ AAAA? alefaceci.pl. (30)
+18:25:17.274858 IP migajek.us.to.54072 > 192.168.1.254.domain: 23015+ AAAA? alemodelki.pl. (31)
+18:25:17.276728 IP 192.168.1.254.domain > migajek.us.to.42599: 30070 0/1/0 (89)
+18:25:17.281796 IP 192.168.1.254.domain > migajek.us.to.45948: 2511 0/1/0 (89)
+18:25:17.281975 IP migajek.us.to.43584 > 192.168.1.254.domain: 9356+ AAAA? alefaceci.pl. (30)
+18:25:17.282158 IP migajek.us.to.54422 > 192.168.1.254.domain: 7042+ A? whosegame.pl. (30)
+18:25:17.284597 IP 192.168.1.254.domain > migajek.us.to.43584: 9356 0/1/0 (89)
+18:25:17.285608 IP 192.168.1.254.domain > migajek.us.to.54422: 7042 1/2/2 A 80.12.202.27 (117)
+18:25:17.287227 IP migajek.us.to.53191 > 192.168.1.254.domain: 59194+ AAAA? diety.wp.pl. (29)
+18:25:17.287825 IP migajek.us.to.35153 > 192.168.1.254.domain: 40397+ A? alefaceci.pl. (30)
+18:25:17.289159 IP 192.168.1.254.domain > migajek.us.to.54072: 23015 0/1/0 (90)
+18:25:17.292016 IP 192.168.1.254.domain > migajek.us.to.35153: 40397 1/2/2 A 212.77.100.8 (117)
+18:25:17.295241 IP migajek.us.to.39157 > 192.168.1.254.domain: 37509+ AAAA? dom.wp.pl. (27)
+18:25:17.295423 IP migajek.us.to.51693 > 192.168.1.254.domain: 14311+ AAAA? alemodelki.pl. (31)
+18:25:17.296942 IP 192.168.1.254.domain > migajek.us.to.53191: 59194 0/1/0 (85)
+18:25:17.297896 IP 192.168.1.254.domain > migajek.us.to.39157: 37509 1/1/0 CNAME[|domain]
+18:25:17.299274 IP 192.168.1.254.domain > migajek.us.to.51693: 14311 0/1/0 (90)
+18:25:17.303005 IP migajek.us.to.57489 > 192.168.1.254.domain: 7357+ A? alemodelki.pl. (31)
+18:25:17.303167 IP migajek.us.to.52949 > 192.168.1.254.domain: 14363+ AAAA? diety.wp.pl. (29)
+18:25:17.303269 IP migajek.us.to.46670 > 192.168.1.254.domain: 51956+ A? dom.wp.pl. (27)
+18:25:17.305501 IP 192.168.1.254.domain > migajek.us.to.57489: 7357 1/2/2 A 212.77.104.21 (118)
+18:25:17.306902 IP 192.168.1.254.domain > migajek.us.to.52949: 14363 0/1/0 (85)
+18:25:17.307902 IP 192.168.1.254.domain > migajek.us.to.46670: 51956 2/2/2 CNAME[|domain]
+18:25:17.311112 IP migajek.us.to.45394 > 192.168.1.254.domain: 20842+ AAAA? extrema.sport.wp.pl. (37)
+18:25:17.311705 IP migajek.us.to.39005 > 192.168.1.254.domain: 46453+ AAAA? hityczykity.pl. (32)
+18:25:17.311815 IP migajek.us.to.52093 > 192.168.1.254.domain: 664+ A? diety.wp.pl. (29)
+18:25:17.317254 IP 192.168.1.254.domain > migajek.us.to.52093: 664 3/3/3 A 91.102.119.36,[|domain]
+18:25:17.319256 IP migajek.us.to.42131 > 192.168.1.254.domain: 64019+ AAAA? jegoego.pl. (28)
+18:25:17.325909 IP 192.168.1.254.domain > migajek.us.to.45394: 20842 0/1/0 (93)
+18:25:17.326841 IP 192.168.1.254.domain > migajek.us.to.39005: 46453 0/1/0 (91)
+18:25:17.327685 IP migajek.us.to.44062 > 192.168.1.254.domain: 23046+ AAAA? hityczykity.pl. (32)
+18:25:17.327926 IP 192.168.1.254.domain > migajek.us.to.42131: 64019 0/1/0 (87)
+18:25:17.328022 IP migajek.us.to.43967 > 192.168.1.254.domain: 43068+ AAAA? jegoego.pl. (28)
+18:25:17.330361 IP 192.168.1.254.domain > migajek.us.to.44062: 23046 0/1/0 (91)
+18:25:17.330490 IP migajek.us.to.58055 > 192.168.1.254.domain: 8321+ A? hityczykity.pl. (32)
+18:25:17.330676 IP migajek.us.to.55640 > 192.168.1.254.domain: 1279+ AAAA? extrema.sport.wp.pl. (37)
+18:25:17.333058 IP 192.168.1.254.domain > migajek.us.to.43967: 43068 0/1/0 (87)
+18:25:17.333205 IP migajek.us.to.43305 > 192.168.1.254.domain: 13334+ A? jegoego.pl. (28)
+18:25:17.334704 IP 192.168.1.254.domain > migajek.us.to.58055: 8321 1/2/2 A 212.77.104.32 (119)
+18:25:17.335248 IP migajek.us.to.42616 > 192.168.1.254.domain: 18267+ AAAA? kuchnia.wp.pl. (31)
+18:25:17.336652 IP 192.168.1.254.domain > migajek.us.to.55640: 1279 0/1/0 (93)
+18:25:17.337614 IP 192.168.1.254.domain > migajek.us.to.43305: 13334 1/2/2 A 212.77.100.44 (115)
+18:25:17.338551 IP 192.168.1.254.domain > migajek.us.to.42616: 18267 1/1/0 CNAME[|domain]
+18:25:17.342573 IP migajek.us.to.48059 > 192.168.1.254.domain: 11386+ A? kuchnia.wp.pl. (31)
+18:25:17.344235 IP 192.168.1.254.domain > migajek.us.to.48059: 11386 2/2/2 CNAME[|domain]
+18:25:17.345787 IP migajek.us.to.41243 > 192.168.1.254.domain: 43214+ AAAA? luxclub.pl. (28)
+18:25:17.345919 IP migajek.us.to.49845 > 192.168.1.254.domain: 1821+ A? extrema.sport.wp.pl. (37)
+18:25:17.346066 IP migajek.us.to.37554 > 192.168.1.254.domain: 18737+ AAAA? www.milusiaki.pl. (34)
+18:25:17.349724 IP 192.168.1.254.domain > migajek.us.to.49845: 1821 1/3/3 (164)
+18:25:17.352845 IP 192.168.1.254.domain > migajek.us.to.41243: 43214 0/1/0 (87)
+18:25:17.354918 IP migajek.us.to.45397 > 192.168.1.254.domain: 39228+ AAAA? luxclub.pl. (28)
+18:25:17.357162 IP 192.168.1.254.domain > migajek.us.to.45397: 39228 0/1/0 (87)
+18:25:17.358129 IP 192.168.1.254.domain > migajek.us.to.37554: 18737 0/1/0 (93)
+18:25:17.362933 IP migajek.us.to.47385 > 192.168.1.254.domain: 53470+ AAAA? www.milusiaki.pl. (34)
+18:25:17.363424 IP migajek.us.to.43121 > 192.168.1.254.domain: 36036+ AAAA? niewiarygodne.pl. (34)
+18:25:17.363494 IP migajek.us.to.46769 > 192.168.1.254.domain: 12774+ A? luxclub.pl. (28)
+18:25:17.365990 IP 192.168.1.254.domain > migajek.us.to.47385: 53470 0/1/0 (93)
+18:25:17.368482 IP 192.168.1.254.domain > migajek.us.to.46769: 12774 1/2/2 A 212.77.100.160 (115)
+18:25:17.371231 IP migajek.us.to.48845 > 192.168.1.254.domain: 45178+ AAAA? www.nocoty.pl. (31)
+18:25:17.371384 IP migajek.us.to.35147 > 192.168.1.254.domain: 52138+ A? www.milusiaki.pl. (34)
+18:25:17.375265 IP 192.168.1.254.domain > migajek.us.to.43121: 36036 0/1/0 (93)
+18:25:17.376023 IP 192.168.1.254.domain > migajek.us.to.35147: 52138 1/2/2 A[|domain]
+18:25:17.377952 IP 192.168.1.254.domain > migajek.us.to.48845: 45178 0/1/0 (90)
+18:25:17.378914 IP migajek.us.to.54926 > 192.168.1.254.domain: 2227+ AAAA? www.nocoty.pl. (31)
+18:25:17.379058 IP migajek.us.to.50794 > 192.168.1.254.domain: 54733+ AAAA? niewiarygodne.pl. (34)
+18:25:17.379331 IP migajek.us.to.52407 > 192.168.1.254.domain: 55593+ AAAA? pixelfun.pl. (29)
+18:25:17.381883 IP 192.168.1.254.domain > migajek.us.to.54926: 2227 0/1/0 (90)
+18:25:17.383419 IP 192.168.1.254.domain > migajek.us.to.50794: 54733 0/1/0 (93)
+18:25:17.387062 IP migajek.us.to.47078 > 192.168.1.254.domain: 25653+ A? www.nocoty.pl. (31)
+18:25:17.387142 IP migajek.us.to.56956 > 192.168.1.254.domain: 43096+ A? niewiarygodne.pl. (34)
+18:25:17.389038 IP 192.168.1.254.domain > migajek.us.to.47078: 25653 1/2/2 A 212.77.100.98 (118)
+18:25:17.390246 IP 192.168.1.254.domain > migajek.us.to.52407: 55593 0/1/0 (88)
+18:25:17.391095 IP 192.168.1.254.domain > migajek.us.to.56956: 43096 1/2/2 A[|domain]
+18:25:17.392102 IP migajek.us.to.47800 > 192.168.1.254.domain: 2339+ AAAA? streetmoda.pl. (31)
+18:25:17.392370 IP migajek.us.to.53689 > 192.168.1.254.domain: 9210+ AAAA? studio.wp.pl. (30)
+18:25:17.392745 IP migajek.us.to.44844 > 192.168.1.254.domain: 65058+ AAAA? pixelfun.pl. (29)
+18:25:17.398066 IP 192.168.1.254.domain > migajek.us.to.44844: 65058 0/1/0 (88)
+18:25:17.399769 IP migajek.us.to.40663 > 192.168.1.254.domain: 43422+ A? pixelfun.pl. (29)
+18:25:17.401892 IP 192.168.1.254.domain > migajek.us.to.47800: 2339 0/1/0 (90)
+18:25:17.402957 IP 192.168.1.254.domain > migajek.us.to.53689: 9210 0/1/0 (86)
+18:25:17.403751 IP 192.168.1.254.domain > migajek.us.to.40663: 43422 1/2/2 A 212.77.100.192 (116)
+18:25:17.404552 IP migajek.us.to.54879 > 192.168.1.254.domain: 4484+ AAAA? trening.wp.pl. (31)
+18:25:17.405923 IP migajek.us.to.50973 > 192.168.1.254.domain: 25484+ AAAA? streetmoda.pl. (31)
+18:25:17.405995 IP migajek.us.to.49734 > 192.168.1.254.domain: 38935+ AAAA? studio.wp.pl. (30)
+18:25:17.408959 IP 192.168.1.254.domain > migajek.us.to.50973: 25484 0/1/0 (90)
+18:25:17.410392 IP 192.168.1.254.domain > migajek.us.to.49734: 38935 0/1/0 (86)
+18:25:17.411785 IP 192.168.1.254.domain > migajek.us.to.54879: 4484 0/1/0 (87)
+18:25:17.415428 IP migajek.us.to.57192 > 192.168.1.254.domain: 19593+ A? streetmoda.pl. (31)
+18:25:17.415614 IP migajek.us.to.35744 > 192.168.1.254.domain: 40377+ A? studio.wp.pl. (30)
+18:25:17.415881 IP migajek.us.to.55917 > 192.168.1.254.domain: 37997+ AAAA? trening.wp.pl. (31)
+18:25:17.417978 IP 192.168.1.254.domain > migajek.us.to.57192: 19593 1/2/2 A 212.77.103.69 (118)
+18:25:17.418993 IP 192.168.1.254.domain > migajek.us.to.35744: 40377 1/3/3 A 212.77.100.62 (157)
+18:25:17.420405 IP 192.168.1.254.domain > migajek.us.to.55917: 37997 0/1/0 (87)
+18:25:17.423621 IP migajek.us.to.37764 > 192.168.1.254.domain: 61362+ AAAA? ulubiency.wp.pl. (33)
+18:25:17.423790 IP migajek.us.to.56950 > 192.168.1.254.domain: 39261+ AAAA? wino.wp.pl. (28)
+18:25:17.423856 IP migajek.us.to.57215 > 192.168.1.254.domain: 43504+ A? trening.wp.pl. (31)
+18:25:17.427566 IP 192.168.1.254.domain > migajek.us.to.56950: 39261 1/1/0 CNAME[|domain]
+18:25:17.428564 IP 192.168.1.254.domain > migajek.us.to.57215: 43504 3/3/3 A 91.102.119.37,[|domain]
+18:25:17.431368 IP 192.168.1.254.domain > migajek.us.to.37764: 61362 0/1/0 (89)
+18:25:17.431597 IP migajek.us.to.38980 > 192.168.1.254.domain: 804+ AAAA? ulubiency.wp.pl. (33)
+18:25:17.431752 IP migajek.us.to.51427 > 192.168.1.254.domain: 30503+ A? wino.wp.pl. (28)
+18:25:17.432301 IP migajek.us.to.38642 > 192.168.1.254.domain: 18331+ AAAA? fitness.wp.pl. (31)
+18:25:17.434706 IP 192.168.1.254.domain > migajek.us.to.38980: 804 0/1/0 (89)
+18:25:17.435699 IP 192.168.1.254.domain > migajek.us.to.51427: 30503 2/2/2 CNAME[|domain]
+18:25:17.436629 IP 192.168.1.254.domain > migajek.us.to.38642: 18331 1/1/0 CNAME[|domain]
+18:25:17.442905 IP migajek.us.to.39399 > 192.168.1.254.domain: 24314+ A? fitness.wp.pl. (31)
+18:25:17.443103 IP migajek.us.to.58430 > 192.168.1.254.domain: 46067+ A? ulubiency.wp.pl. (33)
+18:25:17.443355 IP migajek.us.to.54508 > 192.168.1.254.domain: 38617+ AAAA? hotele.wp.pl. (30)
+18:25:17.445458 IP 192.168.1.254.domain > migajek.us.to.39399: 24314 2/3/3 CNAME[|domain]
+18:25:17.446498 IP 192.168.1.254.domain > migajek.us.to.58430: 46067 1/3/3 A[|domain]
+18:25:17.449489 IP migajek.us.to.49433 > 192.168.1.254.domain: 36330+ AAAA? wycieczki.wp.pl. (33)
+18:25:17.449659 IP migajek.us.to.59199 > 192.168.1.254.domain: 2389+ AAAA? www.navigeo.pl. (32)
+18:25:17.453125 IP 192.168.1.254.domain > migajek.us.to.59199: 2389 1/1/0 CNAME navigeo.pl. (105)
+18:25:17.454347 IP migajek.us.to.58019 > 192.168.1.254.domain: 45882+ A? www.navigeo.pl. (32)
+18:25:17.455931 IP 192.168.1.254.domain > migajek.us.to.58019: 45882 2/2/2 CNAME navigeo.pl., (133)
+18:25:17.458066 IP 192.168.1.254.domain > migajek.us.to.49433: 36330 0/1/0 (89)
+18:25:17.458602 IP migajek.us.to.42381 > 192.168.1.254.domain: 50568+ AAAA? wycieczki.wp.pl. (33)
+18:25:17.458895 IP migajek.us.to.40584 > 192.168.1.254.domain: 60566+ AAAA? informator.turystyka.wp.pl. (44)
+18:25:17.460135 IP 192.168.1.254.domain > migajek.us.to.54508: 38617 0/1/0 (86)
+18:25:17.461644 IP 192.168.1.254.domain > migajek.us.to.42381: 50568 0/1/0 (89)
+18:25:17.462439 IP migajek.us.to.42212 > 192.168.1.254.domain: 57864+ A? wycieczki.wp.pl. (33)
+18:25:17.462965 IP migajek.us.to.57875 > 192.168.1.254.domain: 41632+ AAAA? hotele.wp.pl. (30)
+18:25:17.465337 IP 192.168.1.254.domain > migajek.us.to.42212: 57864 1/3/3 A[|domain]
+18:25:17.466686 IP 192.168.1.254.domain > migajek.us.to.57875: 41632 0/1/0 (86)
+18:25:17.468670 IP 192.168.1.254.domain > migajek.us.to.40584: 60566 0/1/0 (100)
+18:25:17.471363 IP migajek.us.to.33870 > 192.168.1.254.domain: 14148+ AAAA? informator.turystyka.wp.pl. (44)
+18:25:17.472713 IP migajek.us.to.35156 > 192.168.1.254.domain: 61408+ AAAA? otowakacje.wp.pl. (34)
+18:25:17.472822 IP migajek.us.to.55200 > 192.168.1.254.domain: 64163+ A? hotele.wp.pl. (30)
+18:25:17.474615 IP 192.168.1.254.domain > migajek.us.to.33870: 14148 0/1/0 (100)
+18:25:17.475534 IP 192.168.1.254.domain > migajek.us.to.35156: 61408 1/1/0 CNAME[|domain]
+18:25:17.476509 IP 192.168.1.254.domain > migajek.us.to.55200: 64163 1/3/3 A 212.77.100.29 (157)
+18:25:17.479295 IP migajek.us.to.58433 > 192.168.1.254.domain: 34346+ AAAA? polskajestfajna.wp.pl. (39)
+18:25:17.480203 IP migajek.us.to.37126 > 192.168.1.254.domain: 15890+ A? informator.turystyka.wp.pl. (44)
+18:25:17.480283 IP migajek.us.to.50914 > 192.168.1.254.domain: 11870+ A? otowakacje.wp.pl. (34)
+18:25:17.483760 IP 192.168.1.254.domain > migajek.us.to.37126: 15890 1/3/3 (171)
+18:25:17.484101 IP migajek.us.to.43516 > 192.168.1.254.domain: 22159+ AAAA? samoloty.wp.pl. (32)
+18:25:17.485461 IP 192.168.1.254.domain > migajek.us.to.50914: 11870 2/7/7 CNAME[|domain]
+18:25:17.485763 IP migajek.us.to.49007 > 192.168.1.254.domain: 29835+ AAAA? tanielatanie.wp.pl. (36)
+18:25:17.487320 IP 192.168.1.254.domain > migajek.us.to.58433: 34346 0/1/0 (95)
+18:25:17.488128 IP migajek.us.to.33812 > 192.168.1.254.domain: 61527+ AAAA? polskajestfajna.wp.pl. (39)
+18:25:17.490355 IP 192.168.1.254.domain > migajek.us.to.49007: 29835 1/1/0 CNAME[|domain]
+18:25:17.490504 IP migajek.us.to.51838 > 192.168.1.254.domain: 49219+ A? tanielatanie.wp.pl. (36)
+18:25:17.492366 IP 192.168.1.254.domain > migajek.us.to.33812: 61527 0/1/0 (95)
+18:25:17.493734 IP 192.168.1.254.domain > migajek.us.to.43516: 22159 0/1/0 (88)
+18:25:17.494189 IP migajek.us.to.46192 > 192.168.1.254.domain: 58400+ AAAA? samoloty.wp.pl. (32)
+18:25:17.495177 IP 192.168.1.254.domain > migajek.us.to.51838: 49219 2/2/2 CNAME[|domain]
+18:25:17.496584 IP 192.168.1.254.domain > migajek.us.to.46192: 58400 0/1/0 (88)
+18:25:17.496736 IP migajek.us.to.46333 > 192.168.1.254.domain: 30807+ A? samoloty.wp.pl. (32)
+18:25:17.496876 IP migajek.us.to.32854 > 192.168.1.254.domain: 40316+ A? polskajestfajna.wp.pl. (39)
+18:25:17.497234 IP migajek.us.to.40010 > 192.168.1.254.domain: 29961+ AAAA? wakacje.wp.pl. (31)
+18:25:17.499306 IP 192.168.1.254.domain > migajek.us.to.46333: 30807 1/3/3 A 83.142.186.97 (159)
+18:25:17.500342 IP 192.168.1.254.domain > migajek.us.to.32854: 40316 1/3/3 (166)
+18:25:17.500867 IP migajek.us.to.46504 > 192.168.1.254.domain: 12623+ AAAA? wynajemsamochodow.wp.pl. (41)
+18:25:17.506531 IP migajek.us.to.34295 > 192.168.1.254.domain: 38470+ AAAA? adtotal.pl. (28)
+18:25:17.509949 IP 192.168.1.254.domain > migajek.us.to.46504: 12623 0/1/0 (97)
+18:25:17.510092 IP migajek.us.to.58148 > 192.168.1.254.domain: 13729+ AAAA? wynajemsamochodow.wp.pl. (41)
+18:25:17.511555 IP 192.168.1.254.domain > migajek.us.to.40010: 29961 0/1/0 (87)
+18:25:17.512496 IP migajek.us.to.47627 > 192.168.1.254.domain: 38726+ AAAA? wakacje.wp.pl. (31)
+18:25:17.513988 IP 192.168.1.254.domain > migajek.us.to.58148: 13729 0/1/0 (97)
+18:25:17.515364 IP 192.168.1.254.domain > migajek.us.to.34295: 38470 0/1/0 (87)
+18:25:17.516406 IP migajek.us.to.58908 > 192.168.1.254.domain: 42982+ A? wynajemsamochodow.wp.pl. (41)
+18:25:17.516565 IP migajek.us.to.39069 > 192.168.1.254.domain: 17878+ AAAA? adtotal.pl. (28)
+18:25:17.516673 IP 192.168.1.254.domain > migajek.us.to.47627: 38726 0/1/0 (87)
+18:25:17.517600 IP migajek.us.to.44417 > 192.168.1.254.domain: 30925+ A? wakacje.wp.pl. (31)
+18:25:17.519177 IP 192.168.1.254.domain > migajek.us.to.58908: 42982 1/3/3 (168)
+18:25:17.519505 IP migajek.us.to.47758 > 192.168.1.254.domain: 55965+ AAAA? analizy.gielda.wp.pl. (38)
+18:25:17.521186 IP 192.168.1.254.domain > migajek.us.to.39069: 17878 0/1/0 (87)
+18:25:17.521243 IP migajek.us.to.48260 > 192.168.1.254.domain: 17553+ A? adtotal.pl. (28)
+18:25:17.522930 IP 192.168.1.254.domain > migajek.us.to.44417: 30925 1/3/3 A 212.77.100.79 (158)
+18:25:17.523067 IP migajek.us.to.58612 > 192.168.1.254.domain: 12668+ AAAA? banki.wp.pl. (29)
+18:25:17.526011 IP 192.168.1.254.domain > migajek.us.to.48260: 17553 1/2/2 A 212.77.100.17 (115)
+18:25:17.526129 IP migajek.us.to.34080 > 192.168.1.254.domain: 3626+ AAAA? ebiznes.wp.pl. (31)
+18:25:17.532753 IP 192.168.1.254.domain > migajek.us.to.47758: 55965 0/1/0 (94)
+18:25:17.532922 IP migajek.us.to.55555 > 192.168.1.254.domain: 42371+ AAAA? analizy.gielda.wp.pl. (38)
+18:25:17.534482 IP 192.168.1.254.domain > migajek.us.to.58612: 12668 0/1/0 (85)
+18:25:17.534532 IP migajek.us.to.56954 > 192.168.1.254.domain: 15450+ AAAA? banki.wp.pl. (29)
+18:25:17.536325 IP 192.168.1.254.domain > migajek.us.to.55555: 42371 0/1/0 (94)
+18:25:17.536383 IP migajek.us.to.57115 > 192.168.1.254.domain: 2842+ A? analizy.gielda.wp.pl. (38)
+18:25:17.537874 IP 192.168.1.254.domain > migajek.us.to.34080: 3626 0/1/0 (87)
+18:25:17.537920 IP migajek.us.to.57144 > 192.168.1.254.domain: 48092+ AAAA? ebiznes.wp.pl. (31)
+18:25:17.539750 IP 192.168.1.254.domain > migajek.us.to.56954: 15450 0/1/0 (85)
+18:25:17.539796 IP migajek.us.to.46200 > 192.168.1.254.domain: 26484+ A? banki.wp.pl. (29)
+18:25:17.541387 IP 192.168.1.254.domain > migajek.us.to.57115: 2842 1/3/3 (165)
+18:25:17.541624 IP migajek.us.to.59147 > 192.168.1.254.domain: 24380+ AAAA? ifirma.wp.pl. (30)
+18:25:17.543527 IP 192.168.1.254.domain > migajek.us.to.57144: 48092 0/1/0 (87)
+18:25:17.543576 IP migajek.us.to.33726 > 192.168.1.254.domain: 47242+ A? ebiznes.wp.pl. (31)
+18:25:17.545164 IP 192.168.1.254.domain > migajek.us.to.46200: 26484 1/3/3 A 212.77.100.176 (156)
+18:25:17.545351 IP migajek.us.to.55308 > 192.168.1.254.domain: 59028+ AAAA? emerytury.wp.pl. (33)
+18:25:17.548257 IP 192.168.1.254.domain > migajek.us.to.33726: 47242 1/3/3 A 212.77.100.163 (158)
+18:25:17.548383 IP migajek.us.to.39871 > 192.168.1.254.domain: 38364+ AAAA? fundusze.wp.pl. (32)
+18:25:17.553198 IP 192.168.1.254.domain > migajek.us.to.59147: 24380 0/1/0 (86)
+18:25:17.553249 IP migajek.us.to.45133 > 192.168.1.254.domain: 55527+ AAAA? ifirma.wp.pl. (30)
+18:25:17.555193 IP 192.168.1.254.domain > migajek.us.to.45133: 55527 0/1/0 (86)
+18:25:17.555254 IP migajek.us.to.47136 > 192.168.1.254.domain: 23406+ A? ifirma.wp.pl. (30)
+18:25:17.556850 IP 192.168.1.254.domain > migajek.us.to.47136: 23406 1/3/3 A 91.195.26.13 (157)
+18:25:17.557019 IP migajek.us.to.34572 > 192.168.1.254.domain: 65358+ AAAA? kadry.wp.pl. (29)
+18:25:17.558827 IP 192.168.1.254.domain > migajek.us.to.55308: 59028 0/1/0 (89)
+18:25:17.558875 IP migajek.us.to.40851 > 192.168.1.254.domain: 31852+ AAAA? emerytury.wp.pl. (33)
+18:25:17.561652 IP 192.168.1.254.domain > migajek.us.to.39871: 38364 0/1/0 (88)
+18:25:17.561697 IP migajek.us.to.39194 > 192.168.1.254.domain: 57856+ AAAA? fundusze.wp.pl. (32)
+18:25:17.563636 IP 192.168.1.254.domain > migajek.us.to.40851: 31852 0/1/0 (89)
+18:25:17.563681 IP migajek.us.to.59189 > 192.168.1.254.domain: 52972+ A? emerytury.wp.pl. (33)
+18:25:17.566035 IP 192.168.1.254.domain > migajek.us.to.39194: 57856 0/1/0 (88)
+18:25:17.566134 IP migajek.us.to.38187 > 192.168.1.254.domain: 2908+ A? fundusze.wp.pl. (32)
+18:25:17.567623 IP 192.168.1.254.domain > migajek.us.to.34572: 65358 0/1/0 (85)
+18:25:17.567671 IP migajek.us.to.52909 > 192.168.1.254.domain: 37916+ AAAA? kadry.wp.pl. (29)
+18:25:17.569085 IP 192.168.1.254.domain > migajek.us.to.59189: 52972 1/3/3 A[|domain]
+18:25:17.569281 IP migajek.us.to.35714 > 192.168.1.254.domain: 37592+ AAAA? krs.wp.pl. (27)
+18:25:17.570810 IP 192.168.1.254.domain > migajek.us.to.38187: 2908 1/3/3 A 212.77.100.69 (159)
+18:25:17.571003 IP migajek.us.to.34877 > 192.168.1.254.domain: 16739+ AAAA? podatki.wp.pl. (31)
+18:25:17.573002 IP 192.168.1.254.domain > migajek.us.to.52909: 37916 0/1/0 (85)
+18:25:17.573049 IP migajek.us.to.50860 > 192.168.1.254.domain: 14930+ A? kadry.wp.pl. (29)
+18:25:17.577495 IP 192.168.1.254.domain > migajek.us.to.50860: 14930 1/3/3 A 212.85.110.127 (156)
+18:25:17.577614 IP migajek.us.to.57023 > 192.168.1.254.domain: 24963+ AAAA? pasazfin.wp.pl. (32)
+18:25:17.580994 IP 192.168.1.254.domain > migajek.us.to.35714: 37592 0/1/0 (83)
+18:25:17.581041 IP migajek.us.to.36930 > 192.168.1.254.domain: 4612+ AAAA? krs.wp.pl. (27)
+18:25:17.582539 IP 192.168.1.254.domain > migajek.us.to.34877: 16739 0/1/0 (87)
+18:25:17.582582 IP migajek.us.to.47554 > 192.168.1.254.domain: 14021+ AAAA? podatki.wp.pl. (31)
+18:25:17.584464 IP 192.168.1.254.domain > migajek.us.to.36930: 4612 0/1/0 (83)
+18:25:17.584510 IP migajek.us.to.43521 > 192.168.1.254.domain: 13115+ A? krs.wp.pl. (27)
+18:25:17.587148 IP 192.168.1.254.domain > migajek.us.to.47554: 14021 0/1/0 (87)
+18:25:17.587193 IP migajek.us.to.45671 > 192.168.1.254.domain: 13694+ A? podatki.wp.pl. (31)
+18:25:17.588689 IP 192.168.1.254.domain > migajek.us.to.57023: 24963 0/1/0 (88)
+18:25:17.588749 IP migajek.us.to.37636 > 192.168.1.254.domain: 48062+ AAAA? pasazfin.wp.pl. (32)
+18:25:17.590134 IP 192.168.1.254.domain > migajek.us.to.43521: 13115 1/3/3 A 85.128.225.8 (154)
+18:25:17.590306 IP migajek.us.to.38831 > 192.168.1.254.domain: 18985+ AAAA? reklama.wp.pl. (31)
+18:25:17.591759 IP 192.168.1.254.domain > migajek.us.to.45671: 13694 1/3/3 A 212.77.100.105 (158)
+18:25:17.591885 IP migajek.us.to.54048 > 192.168.1.254.domain: 50870+ AAAA? taniaenergia.wp.pl. (36)
+18:25:17.593978 IP 192.168.1.254.domain > migajek.us.to.37636: 48062 0/1/0 (88)
+18:25:17.594024 IP migajek.us.to.41308 > 192.168.1.254.domain: 2724+ A? pasazfin.wp.pl. (32)
+18:25:17.598551 IP 192.168.1.254.domain > migajek.us.to.41308: 2724 1/3/3 A 212.77.100.194 (159)
+18:25:17.598773 IP migajek.us.to.47550 > 192.168.1.254.domain: 59588+ AAAA? ubezpieczenia.wp.pl. (37)
+18:25:17.600377 IP 192.168.1.254.domain > migajek.us.to.38831: 18985 0/1/0 (87)
+18:25:17.600427 IP migajek.us.to.33333 > 192.168.1.254.domain: 57975+ AAAA? reklama.wp.pl. (31)
+18:25:17.602093 IP 192.168.1.254.domain > migajek.us.to.47550: 59588 1/1/0 (123)
+18:25:17.602140 IP migajek.us.to.56682 > 192.168.1.254.domain: 32516+ A? ubezpieczenia.wp.pl. (37)
+18:25:17.603979 IP 192.168.1.254.domain > migajek.us.to.54048: 50870 0/1/0 (92)
+18:25:17.604029 IP migajek.us.to.52334 > 192.168.1.254.domain: 30893+ AAAA? taniaenergia.wp.pl. (36)
+18:25:17.605822 IP 192.168.1.254.domain > migajek.us.to.33333: 57975 0/1/0 (87)
+18:25:17.605867 IP migajek.us.to.35056 > 192.168.1.254.domain: 56783+ A? reklama.wp.pl. (31)
+18:25:17.607477 IP 192.168.1.254.domain > migajek.us.to.56682: 32516 2/3/3[|domain]
+18:25:17.607610 IP migajek.us.to.59388 > 192.168.1.254.domain: 45077+ AAAA? waluty.wp.pl. (30)
+18:25:17.609499 IP 192.168.1.254.domain > migajek.us.to.52334: 30893 0/1/0 (92)
+18:25:17.609544 IP migajek.us.to.40945 > 192.168.1.254.domain: 25292+ A? taniaenergia.wp.pl. (36)
+18:25:17.611120 IP 192.168.1.254.domain > migajek.us.to.35056: 56783 1/3/3 A 212.77.103.65 (158)
+18:25:17.611321 IP migajek.us.to.56749 > 192.168.1.254.domain: 62046+ AAAA? aplikacjegsm.wp.pl. (36)
+18:25:17.615049 IP 192.168.1.254.domain > migajek.us.to.40945: 25292 1/3/3 A[|domain]
+18:25:17.615175 IP migajek.us.to.56748 > 192.168.1.254.domain: 39714+ AAAA? aukcjewp.wp.pl. (32)
+18:25:17.618227 IP 192.168.1.254.domain > migajek.us.to.56748: 39714 1/1/0 CNAME[|domain]
+18:25:17.618296 IP migajek.us.to.44150 > 192.168.1.254.domain: 19945+ A? aukcjewp.wp.pl. (32)
+18:25:17.619965 IP 192.168.1.254.domain > migajek.us.to.59388: 45077 0/1/0 (86)
+18:25:17.620013 IP migajek.us.to.50306 > 192.168.1.254.domain: 3074+ AAAA? waluty.wp.pl. (30)
+18:25:17.621809 IP 192.168.1.254.domain > migajek.us.to.56749: 62046 0/1/0 (92)
+18:25:17.621855 IP migajek.us.to.60100 > 192.168.1.254.domain: 34749+ AAAA? aplikacjegsm.wp.pl. (36)
+18:25:17.623380 IP 192.168.1.254.domain > migajek.us.to.44150: 19945 2/2/0 CNAME[|domain]
+18:25:17.623562 IP migajek.us.to.54598 > 192.168.1.254.domain: 18696+ AAAA? bilety.wp.pl. (30)
+18:25:17.625386 IP 192.168.1.254.domain > migajek.us.to.50306: 3074 0/1/0 (86)
+18:25:17.625435 IP migajek.us.to.42754 > 192.168.1.254.domain: 35193+ A? waluty.wp.pl. (30)
+18:25:17.627412 IP 192.168.1.254.domain > migajek.us.to.60100: 34749 0/1/0 (92)
+18:25:17.627459 IP migajek.us.to.46814 > 192.168.1.254.domain: 17326+ A? aplikacjegsm.wp.pl. (36)
+18:25:17.630541 IP 192.168.1.254.domain > migajek.us.to.42754: 35193 1/3/3 A 212.77.100.32 (157)
+18:25:17.630678 IP migajek.us.to.45603 > 192.168.1.254.domain: 62611+ AAAA? bramkasms.wp.pl. (33)
+18:25:17.632199 IP 192.168.1.254.domain > migajek.us.to.46814: 17326 1/3/3 A[|domain]
+18:25:17.632340 IP migajek.us.to.37554 > 192.168.1.254.domain: 43334+ AAAA? hosting.wp.pl. (31)
+18:25:17.636961 IP 192.168.1.254.domain > migajek.us.to.54598: 18696 0/1/0 (86)
+18:25:17.637030 IP migajek.us.to.57385 > 192.168.1.254.domain: 41490+ AAAA? bilety.wp.pl. (30)
+18:25:17.639255 IP 192.168.1.254.domain > migajek.us.to.57385: 41490 0/1/0 (86)
+18:25:17.639303 IP migajek.us.to.43980 > 192.168.1.254.domain: 11914+ A? bilety.wp.pl. (30)
+18:25:17.640776 IP 192.168.1.254.domain > migajek.us.to.45603: 62611 0/1/0 (89)
+18:25:17.640821 IP migajek.us.to.47486 > 192.168.1.254.domain: 29090+ AAAA? bramkasms.wp.pl. (33)
+18:25:17.642456 IP 192.168.1.254.domain > migajek.us.to.43980: 11914 1/3/3 A 212.77.100.251 (157)
+18:25:17.642622 IP migajek.us.to.35767 > 192.168.1.254.domain: 41179+ AAAA? sms.wp.pl. (27)
+18:25:17.644175 IP 192.168.1.254.domain > migajek.us.to.37554: 43334 0/1/0 (87)
+18:25:17.644220 IP migajek.us.to.55719 > 192.168.1.254.domain: 62327+ AAAA? hosting.wp.pl. (31)
+18:25:17.646065 IP 192.168.1.254.domain > migajek.us.to.47486: 29090 0/1/0 (89)
+18:25:17.646109 IP migajek.us.to.36833 > 192.168.1.254.domain: 13461+ A? bramkasms.wp.pl. (33)
+18:25:17.649568 IP 192.168.1.254.domain > migajek.us.to.55719: 62327 0/1/0 (87)
+18:25:17.649611 IP migajek.us.to.50724 > 192.168.1.254.domain: 61026+ A? hosting.wp.pl. (31)
+18:25:17.651535 IP 192.168.1.254.domain > migajek.us.to.36833: 13461 1/3/3 A[|domain]
+18:25:17.651726 IP migajek.us.to.57445 > 192.168.1.254.domain: 36408+ AAAA? militaria.wp.pl. (33)
+18:25:17.653305 IP 192.168.1.254.domain > migajek.us.to.35767: 41179 0/1/0 (83)
+18:25:17.653353 IP migajek.us.to.49326 > 192.168.1.254.domain: 33350+ AAAA? sms.wp.pl. (27)
+18:25:17.654810 IP 192.168.1.254.domain > migajek.us.to.50724: 61026 1/3/3 A 62.146.68.63 (158)
+18:25:17.654946 IP migajek.us.to.44925 > 192.168.1.254.domain: 12390+ AAAA? rtveuroagd.wp.pl. (34)
+18:25:17.658326 IP 192.168.1.254.domain > migajek.us.to.49326: 33350 0/1/0 (83)
+18:25:17.658373 IP migajek.us.to.50101 > 192.168.1.254.domain: 44601+ A? sms.wp.pl. (27)
+18:25:17.660038 IP 192.168.1.254.domain > migajek.us.to.44925: 12390 1/1/0 CNAME[|domain]
+18:25:17.660086 IP migajek.us.to.42866 > 192.168.1.254.domain: 8268+ A? rtveuroagd.wp.pl. (34)
+18:25:17.661722 IP 192.168.1.254.domain > migajek.us.to.57445: 36408 0/1/0 (89)
+18:25:17.661763 IP migajek.us.to.48998 > 192.168.1.254.domain: 1306+ AAAA? militaria.wp.pl. (33)
+18:25:17.663292 IP 192.168.1.254.domain > migajek.us.to.50101: 44601 1/3/3 A 81.210.48.33 (154)
+18:25:17.663409 IP migajek.us.to.50913 > 192.168.1.254.domain: 36637+ AAAA? telefon.wp.pl. (31)
+18:25:17.664934 IP 192.168.1.254.domain > migajek.us.to.42866: 8268 2/2/2 CNAME[|domain]
+18:25:17.665044 IP migajek.us.to.39569 > 192.168.1.254.domain: 24584+ AAAA? wyprzedaze.wp.pl. (34)
+18:25:17.667020 IP 192.168.1.254.domain > migajek.us.to.48998: 1306 0/1/0 (89)
+18:25:17.667098 IP migajek.us.to.32801 > 192.168.1.254.domain: 1066+ A? militaria.wp.pl. (33)
+18:25:17.670090 IP 192.168.1.254.domain > migajek.us.to.39569: 24584 1/1/0 CNAME[|domain]
+18:25:17.670174 IP migajek.us.to.37546 > 192.168.1.254.domain: 59110+ A? wyprzedaze.wp.pl. (34)
+18:25:17.672121 IP 192.168.1.254.domain > migajek.us.to.32801: 1066 1/3/3 A[|domain]
+18:25:17.672390 IP migajek.us.to.37994 > 192.168.1.254.domain: 15034+ AAAA? karta.wp.pl. (29)
+18:25:17.673793 IP 192.168.1.254.domain > migajek.us.to.50913: 36637 0/1/0 (87)
+18:25:17.673864 IP migajek.us.to.48696 > 192.168.1.254.domain: 18732+ AAAA? telefon.wp.pl. (31)
+18:25:17.675343 IP 192.168.1.254.domain > migajek.us.to.37546: 59110 2/2/2 CNAME[|domain]
+18:25:17.675536 IP migajek.us.to.41264 > 192.168.1.254.domain: 25697+ AAAA? foto.wp.pl. (28)
+18:25:17.678882 IP 192.168.1.254.domain > migajek.us.to.48696: 18732 0/1/0 (87)
+18:25:17.678958 IP migajek.us.to.42554 > 192.168.1.254.domain: 10434+ A? telefon.wp.pl. (31)
+18:25:17.682198 IP 192.168.1.254.domain > migajek.us.to.37994: 15034 0/1/0 (85)
+18:25:17.682333 IP migajek.us.to.35860 > 192.168.1.254.domain: 27759+ AAAA? karta.wp.pl. (29)
+18:25:17.683938 IP 192.168.1.254.domain > migajek.us.to.42554: 10434 1/3/3 A 212.77.100.14 (158)
+18:25:17.684245 IP migajek.us.to.33906 > 192.168.1.254.domain: 54725+ AAAA? dajopis.pl. (28)
+18:25:17.685685 IP 192.168.1.254.domain > migajek.us.to.41264: 25697 0/1/0 (84)
+18:25:17.685763 IP migajek.us.to.42730 > 192.168.1.254.domain: 57227+ AAAA? foto.wp.pl. (28)
+18:25:17.687561 IP 192.168.1.254.domain > migajek.us.to.35860: 27759 0/1/0 (85)
+18:25:17.687640 IP migajek.us.to.38641 > 192.168.1.254.domain: 57132+ A? karta.wp.pl. (29)
+18:25:17.691047 IP 192.168.1.254.domain > migajek.us.to.42730: 57227 0/1/0 (84)
+18:25:17.691118 IP migajek.us.to.45625 > 192.168.1.254.domain: 60221+ A? foto.wp.pl. (28)
+18:25:17.692689 IP 192.168.1.254.domain > migajek.us.to.38641: 57132 1/3/3 A 212.77.100.13 (156)
+18:25:17.692893 IP migajek.us.to.50114 > 192.168.1.254.domain: 43739+ AAAA? danceflowing.pl. (33)
+18:25:17.694786 IP 192.168.1.254.domain > migajek.us.to.45625: 60221 1/3/3 A 193.151.8.230 (155)
+18:25:17.694974 IP migajek.us.to.37264 > 192.168.1.254.domain: 39578+ AAAA? forum.wp.pl. (29)
+18:25:17.696837 IP 192.168.1.254.domain > migajek.us.to.33906: 54725 0/1/0 (87)
+18:25:17.696938 IP migajek.us.to.38267 > 192.168.1.254.domain: 8181+ AAAA? dajopis.pl. (28)
+18:25:17.702182 IP 192.168.1.254.domain > migajek.us.to.38267: 8181 0/1/0 (87)
+18:25:17.702258 IP migajek.us.to.54898 > 192.168.1.254.domain: 36659+ A? dajopis.pl. (28)
+18:25:17.703863 IP 192.168.1.254.domain > migajek.us.to.50114: 43739 0/1/0 (92)
+18:25:17.703962 IP migajek.us.to.56587 > 192.168.1.254.domain: 57842+ AAAA? danceflowing.pl. (33)
+18:25:17.705356 IP 192.168.1.254.domain > migajek.us.to.54898: 36659 1/2/2 A 212.77.104.22 (115)
+18:25:17.705637 IP migajek.us.to.40675 > 192.168.1.254.domain: 35798+ AAAA? spik.wp.pl. (28)
+18:25:17.706924 IP 192.168.1.254.domain > migajek.us.to.37264: 39578 0/1/0 (85)
+18:25:17.706999 IP migajek.us.to.40807 > 192.168.1.254.domain: 53513+ AAAA? forum.wp.pl. (29)
+18:25:17.708812 IP 192.168.1.254.domain > migajek.us.to.56587: 57842 0/1/0 (92)
+18:25:17.708885 IP migajek.us.to.54752 > 192.168.1.254.domain: 14098+ A? danceflowing.pl. (33)
+18:25:17.712260 IP 192.168.1.254.domain > migajek.us.to.40807: 53513 0/1/0 (85)
+18:25:17.712332 IP migajek.us.to.54454 > 192.168.1.254.domain: 11940+ A? forum.wp.pl. (29)
+18:25:17.714527 IP 192.168.1.254.domain > migajek.us.to.54752: 14098 1/2/2 A[|domain]
+18:25:17.714725 IP migajek.us.to.50140 > 192.168.1.254.domain: 56079+ AAAA? www.naleniucha.pl. (35)
+18:25:17.716178 IP 192.168.1.254.domain > migajek.us.to.54454: 11940 1/3/3 A 212.77.100.230 (156)
+18:25:17.716371 IP migajek.us.to.46963 > 192.168.1.254.domain: 51121+ AAAA? pikeo.pl. (26)
+18:25:17.717809 IP 192.168.1.254.domain > migajek.us.to.50140: 56079 1/1/0 CNAME[|domain]
+18:25:17.717917 IP migajek.us.to.36357 > 192.168.1.254.domain: 21152+ A? www.naleniucha.pl. (35)
+18:25:17.721169 IP 192.168.1.254.domain > migajek.us.to.40675: 35798 0/1/0 (84)
+18:25:17.721247 IP migajek.us.to.51777 > 192.168.1.254.domain: 54816+ AAAA? spik.wp.pl. (28)
+18:25:17.722635 IP 192.168.1.254.domain > migajek.us.to.36357: 21152 2/2/2 CNAME[|domain]
+18:25:17.722937 IP migajek.us.to.39650 > 192.168.1.254.domain: 28818+ AAAA? pytamy.pl. (27)
+18:25:17.725113 IP 192.168.1.254.domain > migajek.us.to.51777: 54816 0/1/0 (84)
+18:25:17.725258 IP migajek.us.to.40652 > 192.168.1.254.domain: 44402+ A? spik.wp.pl. (28)
+18:25:17.726706 IP 192.168.1.254.domain > migajek.us.to.46963: 51121 0/1/0 (85)
+18:25:17.726801 IP migajek.us.to.40494 > 192.168.1.254.domain: 8072+ AAAA? pikeo.pl. (26)
+18:25:17.730106 IP 192.168.1.254.domain > migajek.us.to.40652: 44402 1/3/3 A 212.77.100.50 (155)
+18:25:17.730315 IP migajek.us.to.41559 > 192.168.1.254.domain: 35004+ AAAA? randki.wp.pl. (30)
+18:25:17.732600 IP 192.168.1.254.domain > migajek.us.to.40494: 8072 0/1/0 (85)
+18:25:17.732696 IP migajek.us.to.57288 > 192.168.1.254.domain: 57360+ A? pikeo.pl. (26)
+18:25:17.734318 IP 192.168.1.254.domain > migajek.us.to.41559: 35004 1/1/0 CNAME[|domain]
+18:25:17.734413 IP migajek.us.to.32773 > 192.168.1.254.domain: 33897+ A? randki.wp.pl. (30)
+18:25:17.735963 IP 192.168.1.254.domain > migajek.us.to.57288: 57360 1/2/2 A 194.250.131.209 (113)
+18:25:17.736275 IP migajek.us.to.38628 > 192.168.1.254.domain: 42251+ AAAA? www.rekrutacja.wp.pl. (38)
+18:25:17.737618 IP 192.168.1.254.domain > migajek.us.to.32773: 33897 2/3/3 CNAME[|domain]
+18:25:17.737818 IP migajek.us.to.35105 > 192.168.1.254.domain: 50411+ AAAA? szkola.wp.pl. (30)
+18:25:17.739256 IP 192.168.1.254.domain > migajek.us.to.38628: 42251 1/1/0 (108)
+18:25:17.739335 IP migajek.us.to.45794 > 192.168.1.254.domain: 64166+ A? www.rekrutacja.wp.pl. (38)
+18:25:17.742376 IP 192.168.1.254.domain > migajek.us.to.45794: 64166 2/3/3[|domain]
+18:25:17.742564 IP migajek.us.to.46619 > 192.168.1.254.domain: 50534+ AAAA? szperus.pl. (28)
+18:25:17.778083 IP 192.168.1.254.domain > migajek.us.to.39650: 28818 0/1/0 (86)
+18:25:17.778166 IP migajek.us.to.47982 > 192.168.1.254.domain: 2882+ AAAA? pytamy.pl. (27)
+18:25:17.779620 IP 192.168.1.254.domain > migajek.us.to.46619: 50534 0/1/0 (87)
+18:25:17.779687 IP migajek.us.to.37636 > 192.168.1.254.domain: 33602+ AAAA? szperus.pl. (28)
+18:25:17.781157 IP 192.168.1.254.domain > migajek.us.to.47982: 2882 0/1/0 (86)
+18:25:17.781230 IP migajek.us.to.60286 > 192.168.1.254.domain: 40852+ A? pytamy.pl. (27)
+18:25:17.783350 IP 192.168.1.254.domain > migajek.us.to.37636: 33602 0/1/0 (87)
+18:25:17.783420 IP migajek.us.to.52205 > 192.168.1.254.domain: 28400+ A? szperus.pl. (28)
+18:25:17.784976 IP 192.168.1.254.domain > migajek.us.to.60286: 40852 1/2/2 A 212.77.103.70 (114)
+18:25:17.785181 IP migajek.us.to.48267 > 192.168.1.254.domain: 30983+ AAAA? testwiedzy.pl. (31)
+18:25:17.786621 IP 192.168.1.254.domain > migajek.us.to.52205: 28400 1/2/2 A 212.77.104.30 (115)
+18:25:17.786835 IP migajek.us.to.38509 > 192.168.1.254.domain: 26495+ AAAA? webpark.pl. (28)
+18:25:17.796270 IP 192.168.1.254.domain > migajek.us.to.35105: 50411 0/1/0 (86)
+18:25:17.796372 IP migajek.us.to.57641 > 192.168.1.254.domain: 5028+ AAAA? szkola.wp.pl. (30)
+18:25:17.797849 IP 192.168.1.254.domain > migajek.us.to.48267: 30983 0/1/0 (90)
+18:25:17.798584 IP migajek.us.to.58889 > 192.168.1.254.domain: 42578+ AAAA? testwiedzy.pl. (31)
+18:25:17.799698 IP 192.168.1.254.domain > migajek.us.to.57641: 5028 0/1/0 (86)
+18:25:17.799792 IP migajek.us.to.45011 > 192.168.1.254.domain: 22137+ A? szkola.wp.pl. (30)
+18:25:17.801243 IP 192.168.1.254.domain > migajek.us.to.38509: 26495 0/1/0 (87)
+18:25:17.801315 IP migajek.us.to.34469 > 192.168.1.254.domain: 14481+ AAAA? webpark.pl. (28)
+18:25:17.803240 IP 192.168.1.254.domain > migajek.us.to.58889: 42578 0/1/0 (90)
+18:25:17.803314 IP migajek.us.to.55080 > 192.168.1.254.domain: 25806+ A? testwiedzy.pl. (31)
+18:25:17.804877 IP 192.168.1.254.domain > migajek.us.to.45011: 22137 1/3/3 A 212.77.100.45 (157)
+18:25:17.805167 IP migajek.us.to.49201 > 192.168.1.254.domain: 54302+ AAAA? wirtualni.wp.pl. (33)
+18:25:17.806903 IP 192.168.1.254.domain > migajek.us.to.34469: 14481 0/1/0 (87)
+18:25:17.806979 IP migajek.us.to.44860 > 192.168.1.254.domain: 58067+ A? webpark.pl. (28)
+18:25:17.808569 IP 192.168.1.254.domain > migajek.us.to.55080: 25806 1/2/2 A 88.198.51.8 (118)
+18:25:17.808759 IP migajek.us.to.40937 > 192.168.1.254.domain: 27941+ AAAA? wkret.wp.pl. (29)
+18:25:17.811662 IP 192.168.1.254.domain > migajek.us.to.44860: 58067 1/2/2 A 212.77.101.133 (115)
+18:25:17.811920 IP migajek.us.to.36580 > 192.168.1.254.domain: 11331+ AAAA? adkontekst.wp.pl. (34)
+18:25:17.815567 IP 192.168.1.254.domain > migajek.us.to.49201: 54302 0/1/0 (89)
+18:25:17.815639 IP migajek.us.to.45763 > 192.168.1.254.domain: 47927+ AAAA? wirtualni.wp.pl. (33)
+18:25:17.817281 IP 192.168.1.254.domain > migajek.us.to.36580: 11331 1/1/0 CNAME[|domain]
+18:25:17.817377 IP migajek.us.to.48856 > 192.168.1.254.domain: 60868+ A? adkontekst.wp.pl. (34)
+18:25:17.818865 IP 192.168.1.254.domain > migajek.us.to.40937: 27941 0/1/0 (85)
+18:25:17.818936 IP migajek.us.to.33704 > 192.168.1.254.domain: 33383+ AAAA? wkret.wp.pl. (29)
+18:25:17.820745 IP 192.168.1.254.domain > migajek.us.to.45763: 47927 0/1/0 (89)
+18:25:17.820821 IP migajek.us.to.51844 > 192.168.1.254.domain: 13870+ A? wirtualni.wp.pl. (33)
+18:25:17.822430 IP 192.168.1.254.domain > migajek.us.to.48856: 60868 2/3/3 CNAME[|domain]
+18:25:17.822678 IP migajek.us.to.35953 > 192.168.1.254.domain: 245+ AAAA? boksy.wp.pl. (29)
+18:25:17.824614 IP 192.168.1.254.domain > migajek.us.to.33704: 33383 0/1/0 (85)
+18:25:17.824723 IP migajek.us.to.33096 > 192.168.1.254.domain: 25767+ A? wkret.wp.pl. (29)
+18:25:17.826273 IP 192.168.1.254.domain > migajek.us.to.51844: 13870 1/3/3 A[|domain]
+18:25:17.826514 IP migajek.us.to.39493 > 192.168.1.254.domain: 11202+ AAAA? firmy.wp.pl. (29)
+18:25:17.827882 IP 192.168.1.254.domain > migajek.us.to.35953: 245 1/1/0 CNAME rd.wp.pl. (102)
+18:25:17.827963 IP migajek.us.to.46095 > 192.168.1.254.domain: 11940+ A? boksy.wp.pl. (29)
+18:25:17.829531 IP 192.168.1.254.domain > migajek.us.to.33096: 25767 1/3/3 A 212.77.100.182 (156)
+18:25:17.829719 IP migajek.us.to.33758 > 192.168.1.254.domain: 2311+ AAAA? katalog.wp.pl. (31)
+18:25:17.831137 IP 192.168.1.254.domain > migajek.us.to.39493: 11202 1/1/0 CNAME[|domain]
+18:25:17.831555 IP migajek.us.to.45414 > 192.168.1.254.domain: 3345+ A? firmy.wp.pl. (29)
+18:25:17.832960 IP 192.168.1.254.domain > migajek.us.to.46095: 11940 2/3/3 CNAME rd.wp.pl., (173)
+18:25:17.833180 IP migajek.us.to.52055 > 192.168.1.254.domain: 2732+ AAAA? szukaj.wp.pl. (30)
+18:25:17.836143 IP 192.168.1.254.domain > migajek.us.to.45414: 3345 2/3/3 CNAME[|domain]
+18:25:17.836453 IP migajek.us.to.54965 > 192.168.1.254.domain: 34526+ AAAA? slowniki.wp.pl. (32)
+18:25:17.839239 IP 192.168.1.254.domain > migajek.us.to.54965: 34526 1/1/0 CNAME[|domain]
+18:25:17.839350 IP migajek.us.to.58503 > 192.168.1.254.domain: 6862+ A? slowniki.wp.pl. (32)
+18:25:17.840924 IP 192.168.1.254.domain > migajek.us.to.58503: 6862 2/3/3 CNAME[|domain]
+18:25:17.841153 IP migajek.us.to.46906 > 192.168.1.254.domain: 39479+ AAAA? www.discoverychannel.wp.pl. (44)
+18:25:17.843349 IP 192.168.1.254.domain > migajek.us.to.46906: 39479 1/1/0 (114)
+18:25:17.843430 IP migajek.us.to.41118 > 192.168.1.254.domain: 65100+ A? www.discoverychannel.wp.pl. (44)
+18:25:17.844945 IP 192.168.1.254.domain > migajek.us.to.52055: 2732 0/1/0 (86)
+18:25:17.845021 IP migajek.us.to.60528 > 192.168.1.254.domain: 19968+ AAAA? szukaj.wp.pl. (30)
+18:25:17.846529 IP 192.168.1.254.domain > migajek.us.to.41118: 65100 2/3/3[|domain]
+18:25:17.846720 IP migajek.us.to.51265 > 192.168.1.254.domain: 19059+ AAAA? ecofit.wp.pl. (30)
+18:25:17.848131 IP 192.168.1.254.domain > migajek.us.to.33758: 2311 0/1/0 (87)
+18:25:17.848205 IP migajek.us.to.41108 > 192.168.1.254.domain: 975+ AAAA? katalog.wp.pl. (31)
+18:25:17.850104 IP 192.168.1.254.domain > migajek.us.to.60528: 19968 0/1/0 (86)
+18:25:17.850242 IP migajek.us.to.51389 > 192.168.1.254.domain: 2196+ A? szukaj.wp.pl. (30)
+18:25:17.851765 IP 192.168.1.254.domain > migajek.us.to.51265: 19059 1/1/0 CNAME[|domain]
+18:25:17.851852 IP migajek.us.to.51440 > 192.168.1.254.domain: 42684+ A? ecofit.wp.pl. (30)
+18:25:17.853954 IP 192.168.1.254.domain > migajek.us.to.41108: 975 0/1/0 (87)
+18:25:17.854033 IP migajek.us.to.34320 > 192.168.1.254.domain: 60751+ A? katalog.wp.pl. (31)
+18:25:17.855689 IP 192.168.1.254.domain > migajek.us.to.51389: 2196 1/3/3 A 212.77.100.215 (157)
+18:25:17.855980 IP migajek.us.to.35938 > 192.168.1.254.domain: 45222+ AAAA? gateway.wp.pl. (31)
+18:25:17.857636 IP 192.168.1.254.domain > migajek.us.to.51440: 42684 2/2/2 CNAME[|domain]
+18:25:17.857843 IP migajek.us.to.47755 > 192.168.1.254.domain: 1843+ AAAA? www.konkursy.wp.pl. (36)
+18:25:17.859366 IP 192.168.1.254.domain > migajek.us.to.34320: 60751 1/3/3 A 212.77.100.212 (158)
+18:25:17.859564 IP migajek.us.to.41172 > 192.168.1.254.domain: 37113+ AAAA? www.loteriabos.pl. (35)
+18:25:17.868767 IP 192.168.1.254.domain > migajek.us.to.35938: 45222 0/1/0 (87)
+18:25:17.868837 IP migajek.us.to.57259 > 192.168.1.254.domain: 28285+ AAAA? gateway.wp.pl. (31)
+18:25:17.870411 IP 192.168.1.254.domain > migajek.us.to.47755: 1843 1/1/0 CNAME[|domain]
+18:25:17.870491 IP migajek.us.to.56718 > 192.168.1.254.domain: 16695+ A? www.konkursy.wp.pl. (36)
+18:25:17.872369 IP 192.168.1.254.domain > migajek.us.to.57259: 28285 0/1/0 (87)
+18:25:17.872440 IP migajek.us.to.48977 > 192.168.1.254.domain: 23083+ A? gateway.wp.pl. (31)
+18:25:17.874077 IP 192.168.1.254.domain > migajek.us.to.41172: 37113 1/1/0 CNAME[|domain]
+18:25:17.874153 IP migajek.us.to.60041 > 192.168.1.254.domain: 1980+ A? www.loteriabos.pl. (35)
+18:25:17.880635 IP 192.168.1.254.domain > migajek.us.to.56718: 16695 2/3/3 CNAME[|domain]
+18:25:17.883584 IP 192.168.1.254.domain > migajek.us.to.60041: 1980 2/2/2 CNAME[|domain]
+18:25:17.884562 IP 192.168.1.254.domain > migajek.us.to.48977: 23083 1/3/3 A 212.77.101.148 (158)
+
